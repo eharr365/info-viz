@@ -1,2521 +1,604 @@
-,year,rank,catchphrase,count
-0,1969,1 - Very Low,jeepers,0
-1,1969,2 - Low,jeepers,0
-2,1969,3 - Moderate,jeepers,0
-3,1969,4 - High,jeepers,0
-4,1969,5 - Very High,jeepers,1
-5,1969,6 - Top Tier,jeepers,0
-6,1969,7 - Elite,jeepers,0
-7,1970,1 - Very Low,jeepers,0
-8,1970,2 - Low,jeepers,0
-9,1970,3 - Moderate,jeepers,0
-10,1970,4 - High,jeepers,0
-11,1970,5 - Very High,jeepers,0
-12,1970,6 - Top Tier,jeepers,0
-13,1970,7 - Elite,jeepers,0
-14,1972,1 - Very Low,jeepers,0
-15,1972,2 - Low,jeepers,0
-16,1972,3 - Moderate,jeepers,0
-17,1972,4 - High,jeepers,1
-18,1972,5 - Very High,jeepers,1
-19,1972,6 - Top Tier,jeepers,0
-20,1972,7 - Elite,jeepers,0
-21,1973,1 - Very Low,jeepers,0
-22,1973,2 - Low,jeepers,0
-23,1973,3 - Moderate,jeepers,0
-24,1973,4 - High,jeepers,1
-25,1973,5 - Very High,jeepers,0
-26,1973,6 - Top Tier,jeepers,0
-27,1973,7 - Elite,jeepers,0
-28,1976,1 - Very Low,jeepers,0
-29,1976,2 - Low,jeepers,0
-30,1976,3 - Moderate,jeepers,1
-31,1976,4 - High,jeepers,8
-32,1976,5 - Very High,jeepers,4
-33,1976,6 - Top Tier,jeepers,0
-34,1976,7 - Elite,jeepers,0
-35,1977,1 - Very Low,jeepers,0
-36,1977,2 - Low,jeepers,0
-37,1977,3 - Moderate,jeepers,0
-38,1977,4 - High,jeepers,20
-39,1977,5 - Very High,jeepers,1
-40,1977,6 - Top Tier,jeepers,0
-41,1977,7 - Elite,jeepers,0
-42,1978,1 - Very Low,jeepers,0
-43,1978,2 - Low,jeepers,0
-44,1978,3 - Moderate,jeepers,0
-45,1978,4 - High,jeepers,36
-46,1978,5 - Very High,jeepers,3
-47,1978,6 - Top Tier,jeepers,0
-48,1978,7 - Elite,jeepers,0
-49,1979,1 - Very Low,jeepers,0
-50,1979,2 - Low,jeepers,0
-51,1979,3 - Moderate,jeepers,0
-52,1979,4 - High,jeepers,10
-53,1979,5 - Very High,jeepers,0
-54,1979,6 - Top Tier,jeepers,0
-55,1979,7 - Elite,jeepers,0
-56,1980,1 - Very Low,jeepers,0
-57,1980,2 - Low,jeepers,0
-58,1980,3 - Moderate,jeepers,0
-59,1980,4 - High,jeepers,0
-60,1980,5 - Very High,jeepers,0
-61,1980,6 - Top Tier,jeepers,0
-62,1980,7 - Elite,jeepers,0
-63,1981,1 - Very Low,jeepers,0
-64,1981,2 - Low,jeepers,0
-65,1981,3 - Moderate,jeepers,0
-66,1981,4 - High,jeepers,0
-67,1981,5 - Very High,jeepers,0
-68,1981,6 - Top Tier,jeepers,0
-69,1981,7 - Elite,jeepers,0
-70,1982,1 - Very Low,jeepers,0
-71,1982,2 - Low,jeepers,0
-72,1982,3 - Moderate,jeepers,0
-73,1982,4 - High,jeepers,0
-74,1982,5 - Very High,jeepers,0
-75,1982,6 - Top Tier,jeepers,0
-76,1982,7 - Elite,jeepers,0
-77,1983,1 - Very Low,jeepers,0
-78,1983,2 - Low,jeepers,0
-79,1983,3 - Moderate,jeepers,0
-80,1983,4 - High,jeepers,0
-81,1983,5 - Very High,jeepers,0
-82,1983,6 - Top Tier,jeepers,0
-83,1983,7 - Elite,jeepers,0
-84,1984,1 - Very Low,jeepers,0
-85,1984,2 - Low,jeepers,0
-86,1984,3 - Moderate,jeepers,0
-87,1984,4 - High,jeepers,0
-88,1984,5 - Very High,jeepers,0
-89,1984,6 - Top Tier,jeepers,0
-90,1984,7 - Elite,jeepers,0
-91,1985,1 - Very Low,jeepers,0
-92,1985,2 - Low,jeepers,0
-93,1985,3 - Moderate,jeepers,0
-94,1985,4 - High,jeepers,0
-95,1985,5 - Very High,jeepers,0
-96,1985,6 - Top Tier,jeepers,0
-97,1985,7 - Elite,jeepers,0
-98,1987,1 - Very Low,jeepers,0
-99,1987,2 - Low,jeepers,0
-100,1987,3 - Moderate,jeepers,0
-101,1987,4 - High,jeepers,0
-102,1987,5 - Very High,jeepers,0
-103,1987,6 - Top Tier,jeepers,0
-104,1987,7 - Elite,jeepers,0
-105,1988,1 - Very Low,jeepers,0
-106,1988,2 - Low,jeepers,0
-107,1988,3 - Moderate,jeepers,0
-108,1988,4 - High,jeepers,0
-109,1988,5 - Very High,jeepers,0
-110,1988,6 - Top Tier,jeepers,0
-111,1988,7 - Elite,jeepers,0
-112,1989,1 - Very Low,jeepers,0
-113,1989,2 - Low,jeepers,0
-114,1989,3 - Moderate,jeepers,0
-115,1989,4 - High,jeepers,0
-116,1989,5 - Very High,jeepers,0
-117,1989,6 - Top Tier,jeepers,0
-118,1989,7 - Elite,jeepers,0
-119,1990,1 - Very Low,jeepers,0
-120,1990,2 - Low,jeepers,0
-121,1990,3 - Moderate,jeepers,0
-122,1990,4 - High,jeepers,0
-123,1990,5 - Very High,jeepers,0
-124,1990,6 - Top Tier,jeepers,0
-125,1990,7 - Elite,jeepers,0
-126,1991,1 - Very Low,jeepers,0
-127,1991,2 - Low,jeepers,0
-128,1991,3 - Moderate,jeepers,0
-129,1991,4 - High,jeepers,0
-130,1991,5 - Very High,jeepers,0
-131,1991,6 - Top Tier,jeepers,0
-132,1991,7 - Elite,jeepers,0
-133,1994,1 - Very Low,jeepers,0
-134,1994,2 - Low,jeepers,0
-135,1994,3 - Moderate,jeepers,0
-136,1994,4 - High,jeepers,0
-137,1994,5 - Very High,jeepers,0
-138,1994,6 - Top Tier,jeepers,0
-139,1994,7 - Elite,jeepers,0
-140,1997,1 - Very Low,jeepers,0
-141,1997,2 - Low,jeepers,0
-142,1997,3 - Moderate,jeepers,0
-143,1997,4 - High,jeepers,0
-144,1997,5 - Very High,jeepers,0
-145,1997,6 - Top Tier,jeepers,0
-146,1997,7 - Elite,jeepers,0
-147,1998,1 - Very Low,jeepers,0
-148,1998,2 - Low,jeepers,0
-149,1998,3 - Moderate,jeepers,0
-150,1998,4 - High,jeepers,0
-151,1998,5 - Very High,jeepers,1
-152,1998,6 - Top Tier,jeepers,0
-153,1998,7 - Elite,jeepers,0
-154,1999,1 - Very Low,jeepers,0
-155,1999,2 - Low,jeepers,0
-156,1999,3 - Moderate,jeepers,0
-157,1999,4 - High,jeepers,0
-158,1999,5 - Very High,jeepers,0
-159,1999,6 - Top Tier,jeepers,0
-160,1999,7 - Elite,jeepers,0
-161,2000,1 - Very Low,jeepers,0
-162,2000,2 - Low,jeepers,0
-163,2000,3 - Moderate,jeepers,0
-164,2000,4 - High,jeepers,0
-165,2000,5 - Very High,jeepers,0
-166,2000,6 - Top Tier,jeepers,0
-167,2000,7 - Elite,jeepers,0
-168,2001,1 - Very Low,jeepers,0
-169,2001,2 - Low,jeepers,0
-170,2001,3 - Moderate,jeepers,0
-171,2001,4 - High,jeepers,1
-172,2001,5 - Very High,jeepers,0
-173,2001,6 - Top Tier,jeepers,0
-174,2001,7 - Elite,jeepers,0
-175,2002,1 - Very Low,jeepers,0
-176,2002,2 - Low,jeepers,0
-177,2002,3 - Moderate,jeepers,0
-178,2002,4 - High,jeepers,14
-179,2002,5 - Very High,jeepers,0
-180,2002,6 - Top Tier,jeepers,0
-181,2002,7 - Elite,jeepers,0
-182,2003,1 - Very Low,jeepers,0
-183,2003,2 - Low,jeepers,0
-184,2003,3 - Moderate,jeepers,1
-185,2003,4 - High,jeepers,7
-186,2003,5 - Very High,jeepers,0
-187,2003,6 - Top Tier,jeepers,0
-188,2003,7 - Elite,jeepers,0
-189,2004,1 - Very Low,jeepers,0
-190,2004,2 - Low,jeepers,0
-191,2004,3 - Moderate,jeepers,4
-192,2004,4 - High,jeepers,2
-193,2004,5 - Very High,jeepers,0
-194,2004,6 - Top Tier,jeepers,0
-195,2004,7 - Elite,jeepers,0
-196,2005,1 - Very Low,jeepers,0
-197,2005,2 - Low,jeepers,0
-198,2005,3 - Moderate,jeepers,12
-199,2005,4 - High,jeepers,13
-200,2005,5 - Very High,jeepers,1
-201,2005,6 - Top Tier,jeepers,0
-202,2005,7 - Elite,jeepers,0
-203,2006,1 - Very Low,jeepers,0
-204,2006,2 - Low,jeepers,0
-205,2006,3 - Moderate,jeepers,1
-206,2006,4 - High,jeepers,0
-207,2006,5 - Very High,jeepers,0
-208,2006,6 - Top Tier,jeepers,0
-209,2006,7 - Elite,jeepers,0
-210,2007,1 - Very Low,jeepers,0
-211,2007,2 - Low,jeepers,0
-212,2007,3 - Moderate,jeepers,4
-213,2007,4 - High,jeepers,0
-214,2007,5 - Very High,jeepers,0
-215,2007,6 - Top Tier,jeepers,0
-216,2007,7 - Elite,jeepers,0
-217,2008,1 - Very Low,jeepers,0
-218,2008,2 - Low,jeepers,0
-219,2008,3 - Moderate,jeepers,4
-220,2008,4 - High,jeepers,0
-221,2008,5 - Very High,jeepers,0
-222,2008,6 - Top Tier,jeepers,0
-223,2008,7 - Elite,jeepers,0
-224,2009,1 - Very Low,jeepers,0
-225,2009,2 - Low,jeepers,0
-226,2009,3 - Moderate,jeepers,2
-227,2009,4 - High,jeepers,0
-228,2009,5 - Very High,jeepers,0
-229,2009,6 - Top Tier,jeepers,0
-230,2009,7 - Elite,jeepers,0
-231,2010,1 - Very Low,jeepers,0
-232,2010,2 - Low,jeepers,0
-233,2010,3 - Moderate,jeepers,0
-234,2010,4 - High,jeepers,0
-235,2010,5 - Very High,jeepers,0
-236,2010,6 - Top Tier,jeepers,0
-237,2010,7 - Elite,jeepers,0
-238,2011,1 - Very Low,jeepers,0
-239,2011,2 - Low,jeepers,0
-240,2011,3 - Moderate,jeepers,0
-241,2011,4 - High,jeepers,0
-242,2011,5 - Very High,jeepers,1
-243,2011,6 - Top Tier,jeepers,0
-244,2011,7 - Elite,jeepers,0
-245,2012,1 - Very Low,jeepers,0
-246,2012,2 - Low,jeepers,0
-247,2012,3 - Moderate,jeepers,0
-248,2012,4 - High,jeepers,2
-249,2012,5 - Very High,jeepers,1
-250,2012,6 - Top Tier,jeepers,1
-251,2012,7 - Elite,jeepers,0
-252,2013,1 - Very Low,jeepers,0
-253,2013,2 - Low,jeepers,0
-254,2013,3 - Moderate,jeepers,1
-255,2013,4 - High,jeepers,0
-256,2013,5 - Very High,jeepers,2
-257,2013,6 - Top Tier,jeepers,5
-258,2013,7 - Elite,jeepers,0
-259,2014,1 - Very Low,jeepers,0
-260,2014,2 - Low,jeepers,0
-261,2014,3 - Moderate,jeepers,10
-262,2014,4 - High,jeepers,0
-263,2014,5 - Very High,jeepers,0
-264,2014,6 - Top Tier,jeepers,0
-265,2014,7 - Elite,jeepers,0
-266,2015,1 - Very Low,jeepers,0
-267,2015,2 - Low,jeepers,0
-268,2015,3 - Moderate,jeepers,4
-269,2015,4 - High,jeepers,1
-270,2015,5 - Very High,jeepers,0
-271,2015,6 - Top Tier,jeepers,0
-272,2015,7 - Elite,jeepers,0
-273,2016,1 - Very Low,jeepers,0
-274,2016,2 - Low,jeepers,2
-275,2016,3 - Moderate,jeepers,0
-276,2016,4 - High,jeepers,1
-277,2016,5 - Very High,jeepers,0
-278,2016,6 - Top Tier,jeepers,0
-279,2016,7 - Elite,jeepers,0
-280,2017,1 - Very Low,jeepers,0
-281,2017,2 - Low,jeepers,1
-282,2017,3 - Moderate,jeepers,0
-283,2017,4 - High,jeepers,0
-284,2017,5 - Very High,jeepers,0
-285,2017,6 - Top Tier,jeepers,0
-286,2017,7 - Elite,jeepers,0
-287,2018,1 - Very Low,jeepers,0
-288,2018,2 - Low,jeepers,0
-289,2018,3 - Moderate,jeepers,4
-290,2018,4 - High,jeepers,2
-291,2018,5 - Very High,jeepers,0
-292,2018,6 - Top Tier,jeepers,0
-293,2018,7 - Elite,jeepers,2
-294,2019,1 - Very Low,jeepers,0
-295,2019,2 - Low,jeepers,1
-296,2019,3 - Moderate,jeepers,5
-297,2019,4 - High,jeepers,6
-298,2019,5 - Very High,jeepers,0
-299,2019,6 - Top Tier,jeepers,2
-300,2019,7 - Elite,jeepers,0
-301,2020,1 - Very Low,jeepers,0
-302,2020,2 - Low,jeepers,0
-303,2020,3 - Moderate,jeepers,4
-304,2020,4 - High,jeepers,3
-305,2020,5 - Very High,jeepers,11
-306,2020,6 - Top Tier,jeepers,1
-307,2020,7 - Elite,jeepers,0
-308,2021,1 - Very Low,jeepers,0
-309,2021,2 - Low,jeepers,0
-310,2021,3 - Moderate,jeepers,0
-311,2021,4 - High,jeepers,0
-312,2021,5 - Very High,jeepers,0
-313,2021,6 - Top Tier,jeepers,0
-314,2021,7 - Elite,jeepers,0
-315,1969,1 - Very Low,jinkies,0
-316,1969,2 - Low,jinkies,0
-317,1969,3 - Moderate,jinkies,0
-318,1969,4 - High,jinkies,0
-319,1969,5 - Very High,jinkies,0
-320,1969,6 - Top Tier,jinkies,0
-321,1969,7 - Elite,jinkies,0
-322,1970,1 - Very Low,jinkies,0
-323,1970,2 - Low,jinkies,0
-324,1970,3 - Moderate,jinkies,0
-325,1970,4 - High,jinkies,0
-326,1970,5 - Very High,jinkies,0
-327,1970,6 - Top Tier,jinkies,0
-328,1970,7 - Elite,jinkies,0
-329,1972,1 - Very Low,jinkies,0
-330,1972,2 - Low,jinkies,0
-331,1972,3 - Moderate,jinkies,0
-332,1972,4 - High,jinkies,4
-333,1972,5 - Very High,jinkies,4
-334,1972,6 - Top Tier,jinkies,0
-335,1972,7 - Elite,jinkies,0
-336,1973,1 - Very Low,jinkies,0
-337,1973,2 - Low,jinkies,0
-338,1973,3 - Moderate,jinkies,0
-339,1973,4 - High,jinkies,4
-340,1973,5 - Very High,jinkies,3
-341,1973,6 - Top Tier,jinkies,0
-342,1973,7 - Elite,jinkies,0
-343,1976,1 - Very Low,jinkies,0
-344,1976,2 - Low,jinkies,0
-345,1976,3 - Moderate,jinkies,7
-346,1976,4 - High,jinkies,7
-347,1976,5 - Very High,jinkies,0
-348,1976,6 - Top Tier,jinkies,0
-349,1976,7 - Elite,jinkies,0
-350,1977,1 - Very Low,jinkies,0
-351,1977,2 - Low,jinkies,0
-352,1977,3 - Moderate,jinkies,0
-353,1977,4 - High,jinkies,2
-354,1977,5 - Very High,jinkies,3
-355,1977,6 - Top Tier,jinkies,0
-356,1977,7 - Elite,jinkies,0
-357,1978,1 - Very Low,jinkies,0
-358,1978,2 - Low,jinkies,0
-359,1978,3 - Moderate,jinkies,4
-360,1978,4 - High,jinkies,14
-361,1978,5 - Very High,jinkies,0
-362,1978,6 - Top Tier,jinkies,0
-363,1978,7 - Elite,jinkies,0
-364,1979,1 - Very Low,jinkies,0
-365,1979,2 - Low,jinkies,0
-366,1979,3 - Moderate,jinkies,3
-367,1979,4 - High,jinkies,33
-368,1979,5 - Very High,jinkies,3
-369,1979,6 - Top Tier,jinkies,0
-370,1979,7 - Elite,jinkies,0
-371,1980,1 - Very Low,jinkies,0
-372,1980,2 - Low,jinkies,0
-373,1980,3 - Moderate,jinkies,0
-374,1980,4 - High,jinkies,0
-375,1980,5 - Very High,jinkies,0
-376,1980,6 - Top Tier,jinkies,0
-377,1980,7 - Elite,jinkies,0
-378,1981,1 - Very Low,jinkies,0
-379,1981,2 - Low,jinkies,0
-380,1981,3 - Moderate,jinkies,0
-381,1981,4 - High,jinkies,0
-382,1981,5 - Very High,jinkies,0
-383,1981,6 - Top Tier,jinkies,0
-384,1981,7 - Elite,jinkies,0
-385,1982,1 - Very Low,jinkies,0
-386,1982,2 - Low,jinkies,0
-387,1982,3 - Moderate,jinkies,0
-388,1982,4 - High,jinkies,0
-389,1982,5 - Very High,jinkies,0
-390,1982,6 - Top Tier,jinkies,0
-391,1982,7 - Elite,jinkies,0
-392,1983,1 - Very Low,jinkies,0
-393,1983,2 - Low,jinkies,0
-394,1983,3 - Moderate,jinkies,0
-395,1983,4 - High,jinkies,0
-396,1983,5 - Very High,jinkies,0
-397,1983,6 - Top Tier,jinkies,0
-398,1983,7 - Elite,jinkies,0
-399,1984,1 - Very Low,jinkies,0
-400,1984,2 - Low,jinkies,0
-401,1984,3 - Moderate,jinkies,0
-402,1984,4 - High,jinkies,3
-403,1984,5 - Very High,jinkies,1
-404,1984,6 - Top Tier,jinkies,0
-405,1984,7 - Elite,jinkies,0
-406,1985,1 - Very Low,jinkies,0
-407,1985,2 - Low,jinkies,0
-408,1985,3 - Moderate,jinkies,0
-409,1985,4 - High,jinkies,0
-410,1985,5 - Very High,jinkies,0
-411,1985,6 - Top Tier,jinkies,0
-412,1985,7 - Elite,jinkies,0
-413,1987,1 - Very Low,jinkies,0
-414,1987,2 - Low,jinkies,0
-415,1987,3 - Moderate,jinkies,0
-416,1987,4 - High,jinkies,0
-417,1987,5 - Very High,jinkies,0
-418,1987,6 - Top Tier,jinkies,0
-419,1987,7 - Elite,jinkies,0
-420,1988,1 - Very Low,jinkies,0
-421,1988,2 - Low,jinkies,0
-422,1988,3 - Moderate,jinkies,0
-423,1988,4 - High,jinkies,62
-424,1988,5 - Very High,jinkies,7
-425,1988,6 - Top Tier,jinkies,0
-426,1988,7 - Elite,jinkies,0
-427,1989,1 - Very Low,jinkies,0
-428,1989,2 - Low,jinkies,0
-429,1989,3 - Moderate,jinkies,0
-430,1989,4 - High,jinkies,22
-431,1989,5 - Very High,jinkies,12
-432,1989,6 - Top Tier,jinkies,0
-433,1989,7 - Elite,jinkies,0
-434,1990,1 - Very Low,jinkies,0
-435,1990,2 - Low,jinkies,0
-436,1990,3 - Moderate,jinkies,0
-437,1990,4 - High,jinkies,18
-438,1990,5 - Very High,jinkies,0
-439,1990,6 - Top Tier,jinkies,0
-440,1990,7 - Elite,jinkies,0
-441,1991,1 - Very Low,jinkies,0
-442,1991,2 - Low,jinkies,0
-443,1991,3 - Moderate,jinkies,6
-444,1991,4 - High,jinkies,12
-445,1991,5 - Very High,jinkies,0
-446,1991,6 - Top Tier,jinkies,0
-447,1991,7 - Elite,jinkies,0
-448,1994,1 - Very Low,jinkies,0
-449,1994,2 - Low,jinkies,0
-450,1994,3 - Moderate,jinkies,0
-451,1994,4 - High,jinkies,0
-452,1994,5 - Very High,jinkies,0
-453,1994,6 - Top Tier,jinkies,0
-454,1994,7 - Elite,jinkies,0
-455,1997,1 - Very Low,jinkies,0
-456,1997,2 - Low,jinkies,0
-457,1997,3 - Moderate,jinkies,0
-458,1997,4 - High,jinkies,0
-459,1997,5 - Very High,jinkies,2
-460,1997,6 - Top Tier,jinkies,0
-461,1997,7 - Elite,jinkies,0
-462,1998,1 - Very Low,jinkies,0
-463,1998,2 - Low,jinkies,0
-464,1998,3 - Moderate,jinkies,0
-465,1998,4 - High,jinkies,0
-466,1998,5 - Very High,jinkies,9
-467,1998,6 - Top Tier,jinkies,0
-468,1998,7 - Elite,jinkies,0
-469,1999,1 - Very Low,jinkies,0
-470,1999,2 - Low,jinkies,0
-471,1999,3 - Moderate,jinkies,0
-472,1999,4 - High,jinkies,5
-473,1999,5 - Very High,jinkies,0
-474,1999,6 - Top Tier,jinkies,0
-475,1999,7 - Elite,jinkies,0
-476,2000,1 - Very Low,jinkies,0
-477,2000,2 - Low,jinkies,0
-478,2000,3 - Moderate,jinkies,0
-479,2000,4 - High,jinkies,2
-480,2000,5 - Very High,jinkies,0
-481,2000,6 - Top Tier,jinkies,0
-482,2000,7 - Elite,jinkies,0
-483,2001,1 - Very Low,jinkies,0
-484,2001,2 - Low,jinkies,0
-485,2001,3 - Moderate,jinkies,0
-486,2001,4 - High,jinkies,8
-487,2001,5 - Very High,jinkies,0
-488,2001,6 - Top Tier,jinkies,0
-489,2001,7 - Elite,jinkies,0
-490,2002,1 - Very Low,jinkies,0
-491,2002,2 - Low,jinkies,0
-492,2002,3 - Moderate,jinkies,0
-493,2002,4 - High,jinkies,11
-494,2002,5 - Very High,jinkies,7
-495,2002,6 - Top Tier,jinkies,0
-496,2002,7 - Elite,jinkies,0
-497,2003,1 - Very Low,jinkies,0
-498,2003,2 - Low,jinkies,0
-499,2003,3 - Moderate,jinkies,6
-500,2003,4 - High,jinkies,9
-501,2003,5 - Very High,jinkies,0
-502,2003,6 - Top Tier,jinkies,0
-503,2003,7 - Elite,jinkies,0
-504,2004,1 - Very Low,jinkies,0
-505,2004,2 - Low,jinkies,0
-506,2004,3 - Moderate,jinkies,6
-507,2004,4 - High,jinkies,6
-508,2004,5 - Very High,jinkies,0
-509,2004,6 - Top Tier,jinkies,0
-510,2004,7 - Elite,jinkies,0
-511,2005,1 - Very Low,jinkies,0
-512,2005,2 - Low,jinkies,0
-513,2005,3 - Moderate,jinkies,3
-514,2005,4 - High,jinkies,6
-515,2005,5 - Very High,jinkies,0
-516,2005,6 - Top Tier,jinkies,0
-517,2005,7 - Elite,jinkies,0
-518,2006,1 - Very Low,jinkies,0
-519,2006,2 - Low,jinkies,0
-520,2006,3 - Moderate,jinkies,2
-521,2006,4 - High,jinkies,1
-522,2006,5 - Very High,jinkies,0
-523,2006,6 - Top Tier,jinkies,0
-524,2006,7 - Elite,jinkies,0
-525,2007,1 - Very Low,jinkies,0
-526,2007,2 - Low,jinkies,0
-527,2007,3 - Moderate,jinkies,8
-528,2007,4 - High,jinkies,0
-529,2007,5 - Very High,jinkies,0
-530,2007,6 - Top Tier,jinkies,0
-531,2007,7 - Elite,jinkies,0
-532,2008,1 - Very Low,jinkies,0
-533,2008,2 - Low,jinkies,0
-534,2008,3 - Moderate,jinkies,2
-535,2008,4 - High,jinkies,0
-536,2008,5 - Very High,jinkies,0
-537,2008,6 - Top Tier,jinkies,0
-538,2008,7 - Elite,jinkies,0
-539,2009,1 - Very Low,jinkies,0
-540,2009,2 - Low,jinkies,7
-541,2009,3 - Moderate,jinkies,3
-542,2009,4 - High,jinkies,0
-543,2009,5 - Very High,jinkies,0
-544,2009,6 - Top Tier,jinkies,0
-545,2009,7 - Elite,jinkies,0
-546,2010,1 - Very Low,jinkies,0
-547,2010,2 - Low,jinkies,0
-548,2010,3 - Moderate,jinkies,0
-549,2010,4 - High,jinkies,6
-550,2010,5 - Very High,jinkies,8
-551,2010,6 - Top Tier,jinkies,0
-552,2010,7 - Elite,jinkies,0
-553,2011,1 - Very Low,jinkies,3
-554,2011,2 - Low,jinkies,0
-555,2011,3 - Moderate,jinkies,0
-556,2011,4 - High,jinkies,0
-557,2011,5 - Very High,jinkies,4
-558,2011,6 - Top Tier,jinkies,3
-559,2011,7 - Elite,jinkies,0
-560,2012,1 - Very Low,jinkies,0
-561,2012,2 - Low,jinkies,0
-562,2012,3 - Moderate,jinkies,2
-563,2012,4 - High,jinkies,4
-564,2012,5 - Very High,jinkies,9
-565,2012,6 - Top Tier,jinkies,4
-566,2012,7 - Elite,jinkies,0
-567,2013,1 - Very Low,jinkies,0
-568,2013,2 - Low,jinkies,8
-569,2013,3 - Moderate,jinkies,1
-570,2013,4 - High,jinkies,0
-571,2013,5 - Very High,jinkies,9
-572,2013,6 - Top Tier,jinkies,7
-573,2013,7 - Elite,jinkies,0
-574,2014,1 - Very Low,jinkies,0
-575,2014,2 - Low,jinkies,0
-576,2014,3 - Moderate,jinkies,6
-577,2014,4 - High,jinkies,0
-578,2014,5 - Very High,jinkies,0
-579,2014,6 - Top Tier,jinkies,0
-580,2014,7 - Elite,jinkies,0
-581,2015,1 - Very Low,jinkies,0
-582,2015,2 - Low,jinkies,0
-583,2015,3 - Moderate,jinkies,4
-584,2015,4 - High,jinkies,4
-585,2015,5 - Very High,jinkies,0
-586,2015,6 - Top Tier,jinkies,0
-587,2015,7 - Elite,jinkies,0
-588,2016,1 - Very Low,jinkies,0
-589,2016,2 - Low,jinkies,1
-590,2016,3 - Moderate,jinkies,2
-591,2016,4 - High,jinkies,0
-592,2016,5 - Very High,jinkies,0
-593,2016,6 - Top Tier,jinkies,0
-594,2016,7 - Elite,jinkies,0
-595,2017,1 - Very Low,jinkies,0
-596,2017,2 - Low,jinkies,13
-597,2017,3 - Moderate,jinkies,1
-598,2017,4 - High,jinkies,2
-599,2017,5 - Very High,jinkies,0
-600,2017,6 - Top Tier,jinkies,0
-601,2017,7 - Elite,jinkies,0
-602,2018,1 - Very Low,jinkies,3
-603,2018,2 - Low,jinkies,0
-604,2018,3 - Moderate,jinkies,9
-605,2018,4 - High,jinkies,1
-606,2018,5 - Very High,jinkies,0
-607,2018,6 - Top Tier,jinkies,0
-608,2018,7 - Elite,jinkies,2
-609,2019,1 - Very Low,jinkies,0
-610,2019,2 - Low,jinkies,0
-611,2019,3 - Moderate,jinkies,3
-612,2019,4 - High,jinkies,6
-613,2019,5 - Very High,jinkies,2
-614,2019,6 - Top Tier,jinkies,0
-615,2019,7 - Elite,jinkies,0
-616,2020,1 - Very Low,jinkies,0
-617,2020,2 - Low,jinkies,0
-618,2020,3 - Moderate,jinkies,1
-619,2020,4 - High,jinkies,4
-620,2020,5 - Very High,jinkies,13
-621,2020,6 - Top Tier,jinkies,0
-622,2020,7 - Elite,jinkies,0
-623,2021,1 - Very Low,jinkies,0
-624,2021,2 - Low,jinkies,0
-625,2021,3 - Moderate,jinkies,0
-626,2021,4 - High,jinkies,0
-627,2021,5 - Very High,jinkies,0
-628,2021,6 - Top Tier,jinkies,0
-629,2021,7 - Elite,jinkies,0
-630,1969,1 - Very Low,my_glasses,0
-631,1969,2 - Low,my_glasses,0
-632,1969,3 - Moderate,my_glasses,0
-633,1969,4 - High,my_glasses,1
-634,1969,5 - Very High,my_glasses,3
-635,1969,6 - Top Tier,my_glasses,0
-636,1969,7 - Elite,my_glasses,0
-637,1970,1 - Very Low,my_glasses,0
-638,1970,2 - Low,my_glasses,0
-639,1970,3 - Moderate,my_glasses,0
-640,1970,4 - High,my_glasses,0
-641,1970,5 - Very High,my_glasses,2
-642,1970,6 - Top Tier,my_glasses,0
-643,1970,7 - Elite,my_glasses,0
-644,1972,1 - Very Low,my_glasses,0
-645,1972,2 - Low,my_glasses,0
-646,1972,3 - Moderate,my_glasses,0
-647,1972,4 - High,my_glasses,0
-648,1972,5 - Very High,my_glasses,1
-649,1972,6 - Top Tier,my_glasses,0
-650,1972,7 - Elite,my_glasses,0
-651,1973,1 - Very Low,my_glasses,0
-652,1973,2 - Low,my_glasses,0
-653,1973,3 - Moderate,my_glasses,0
-654,1973,4 - High,my_glasses,0
-655,1973,5 - Very High,my_glasses,0
-656,1973,6 - Top Tier,my_glasses,0
-657,1973,7 - Elite,my_glasses,0
-658,1976,1 - Very Low,my_glasses,0
-659,1976,2 - Low,my_glasses,0
-660,1976,3 - Moderate,my_glasses,1
-661,1976,4 - High,my_glasses,0
-662,1976,5 - Very High,my_glasses,0
-663,1976,6 - Top Tier,my_glasses,0
-664,1976,7 - Elite,my_glasses,0
-665,1977,1 - Very Low,my_glasses,0
-666,1977,2 - Low,my_glasses,0
-667,1977,3 - Moderate,my_glasses,0
-668,1977,4 - High,my_glasses,0
-669,1977,5 - Very High,my_glasses,0
-670,1977,6 - Top Tier,my_glasses,0
-671,1977,7 - Elite,my_glasses,0
-672,1978,1 - Very Low,my_glasses,0
-673,1978,2 - Low,my_glasses,0
-674,1978,3 - Moderate,my_glasses,0
-675,1978,4 - High,my_glasses,0
-676,1978,5 - Very High,my_glasses,0
-677,1978,6 - Top Tier,my_glasses,0
-678,1978,7 - Elite,my_glasses,0
-679,1979,1 - Very Low,my_glasses,0
-680,1979,2 - Low,my_glasses,0
-681,1979,3 - Moderate,my_glasses,0
-682,1979,4 - High,my_glasses,0
-683,1979,5 - Very High,my_glasses,0
-684,1979,6 - Top Tier,my_glasses,0
-685,1979,7 - Elite,my_glasses,0
-686,1980,1 - Very Low,my_glasses,0
-687,1980,2 - Low,my_glasses,0
-688,1980,3 - Moderate,my_glasses,0
-689,1980,4 - High,my_glasses,0
-690,1980,5 - Very High,my_glasses,0
-691,1980,6 - Top Tier,my_glasses,0
-692,1980,7 - Elite,my_glasses,0
-693,1981,1 - Very Low,my_glasses,0
-694,1981,2 - Low,my_glasses,0
-695,1981,3 - Moderate,my_glasses,0
-696,1981,4 - High,my_glasses,0
-697,1981,5 - Very High,my_glasses,0
-698,1981,6 - Top Tier,my_glasses,0
-699,1981,7 - Elite,my_glasses,0
-700,1982,1 - Very Low,my_glasses,0
-701,1982,2 - Low,my_glasses,0
-702,1982,3 - Moderate,my_glasses,0
-703,1982,4 - High,my_glasses,0
-704,1982,5 - Very High,my_glasses,0
-705,1982,6 - Top Tier,my_glasses,0
-706,1982,7 - Elite,my_glasses,0
-707,1983,1 - Very Low,my_glasses,0
-708,1983,2 - Low,my_glasses,0
-709,1983,3 - Moderate,my_glasses,0
-710,1983,4 - High,my_glasses,0
-711,1983,5 - Very High,my_glasses,0
-712,1983,6 - Top Tier,my_glasses,0
-713,1983,7 - Elite,my_glasses,0
-714,1984,1 - Very Low,my_glasses,0
-715,1984,2 - Low,my_glasses,0
-716,1984,3 - Moderate,my_glasses,0
-717,1984,4 - High,my_glasses,0
-718,1984,5 - Very High,my_glasses,0
-719,1984,6 - Top Tier,my_glasses,0
-720,1984,7 - Elite,my_glasses,0
-721,1985,1 - Very Low,my_glasses,0
-722,1985,2 - Low,my_glasses,0
-723,1985,3 - Moderate,my_glasses,0
-724,1985,4 - High,my_glasses,0
-725,1985,5 - Very High,my_glasses,0
-726,1985,6 - Top Tier,my_glasses,0
-727,1985,7 - Elite,my_glasses,0
-728,1987,1 - Very Low,my_glasses,0
-729,1987,2 - Low,my_glasses,0
-730,1987,3 - Moderate,my_glasses,0
-731,1987,4 - High,my_glasses,0
-732,1987,5 - Very High,my_glasses,0
-733,1987,6 - Top Tier,my_glasses,0
-734,1987,7 - Elite,my_glasses,0
-735,1988,1 - Very Low,my_glasses,0
-736,1988,2 - Low,my_glasses,0
-737,1988,3 - Moderate,my_glasses,0
-738,1988,4 - High,my_glasses,1
-739,1988,5 - Very High,my_glasses,0
-740,1988,6 - Top Tier,my_glasses,0
-741,1988,7 - Elite,my_glasses,0
-742,1989,1 - Very Low,my_glasses,0
-743,1989,2 - Low,my_glasses,0
-744,1989,3 - Moderate,my_glasses,0
-745,1989,4 - High,my_glasses,0
-746,1989,5 - Very High,my_glasses,0
-747,1989,6 - Top Tier,my_glasses,0
-748,1989,7 - Elite,my_glasses,0
-749,1990,1 - Very Low,my_glasses,0
-750,1990,2 - Low,my_glasses,0
-751,1990,3 - Moderate,my_glasses,0
-752,1990,4 - High,my_glasses,0
-753,1990,5 - Very High,my_glasses,0
-754,1990,6 - Top Tier,my_glasses,0
-755,1990,7 - Elite,my_glasses,0
-756,1991,1 - Very Low,my_glasses,0
-757,1991,2 - Low,my_glasses,0
-758,1991,3 - Moderate,my_glasses,0
-759,1991,4 - High,my_glasses,0
-760,1991,5 - Very High,my_glasses,0
-761,1991,6 - Top Tier,my_glasses,0
-762,1991,7 - Elite,my_glasses,0
-763,1994,1 - Very Low,my_glasses,0
-764,1994,2 - Low,my_glasses,0
-765,1994,3 - Moderate,my_glasses,0
-766,1994,4 - High,my_glasses,0
-767,1994,5 - Very High,my_glasses,0
-768,1994,6 - Top Tier,my_glasses,0
-769,1994,7 - Elite,my_glasses,0
-770,1997,1 - Very Low,my_glasses,0
-771,1997,2 - Low,my_glasses,0
-772,1997,3 - Moderate,my_glasses,0
-773,1997,4 - High,my_glasses,0
-774,1997,5 - Very High,my_glasses,1
-775,1997,6 - Top Tier,my_glasses,0
-776,1997,7 - Elite,my_glasses,0
-777,1998,1 - Very Low,my_glasses,0
-778,1998,2 - Low,my_glasses,0
-779,1998,3 - Moderate,my_glasses,0
-780,1998,4 - High,my_glasses,0
-781,1998,5 - Very High,my_glasses,0
-782,1998,6 - Top Tier,my_glasses,0
-783,1998,7 - Elite,my_glasses,0
-784,1999,1 - Very Low,my_glasses,0
-785,1999,2 - Low,my_glasses,0
-786,1999,3 - Moderate,my_glasses,0
-787,1999,4 - High,my_glasses,2
-788,1999,5 - Very High,my_glasses,0
-789,1999,6 - Top Tier,my_glasses,0
-790,1999,7 - Elite,my_glasses,0
-791,2000,1 - Very Low,my_glasses,0
-792,2000,2 - Low,my_glasses,0
-793,2000,3 - Moderate,my_glasses,0
-794,2000,4 - High,my_glasses,0
-795,2000,5 - Very High,my_glasses,0
-796,2000,6 - Top Tier,my_glasses,0
-797,2000,7 - Elite,my_glasses,0
-798,2001,1 - Very Low,my_glasses,0
-799,2001,2 - Low,my_glasses,0
-800,2001,3 - Moderate,my_glasses,0
-801,2001,4 - High,my_glasses,1
-802,2001,5 - Very High,my_glasses,0
-803,2001,6 - Top Tier,my_glasses,0
-804,2001,7 - Elite,my_glasses,0
-805,2002,1 - Very Low,my_glasses,0
-806,2002,2 - Low,my_glasses,0
-807,2002,3 - Moderate,my_glasses,0
-808,2002,4 - High,my_glasses,2
-809,2002,5 - Very High,my_glasses,2
-810,2002,6 - Top Tier,my_glasses,0
-811,2002,7 - Elite,my_glasses,0
-812,2003,1 - Very Low,my_glasses,0
-813,2003,2 - Low,my_glasses,0
-814,2003,3 - Moderate,my_glasses,1
-815,2003,4 - High,my_glasses,1
-816,2003,5 - Very High,my_glasses,0
-817,2003,6 - Top Tier,my_glasses,0
-818,2003,7 - Elite,my_glasses,0
-819,2004,1 - Very Low,my_glasses,0
-820,2004,2 - Low,my_glasses,0
-821,2004,3 - Moderate,my_glasses,0
-822,2004,4 - High,my_glasses,2
-823,2004,5 - Very High,my_glasses,0
-824,2004,6 - Top Tier,my_glasses,0
-825,2004,7 - Elite,my_glasses,0
-826,2005,1 - Very Low,my_glasses,0
-827,2005,2 - Low,my_glasses,0
-828,2005,3 - Moderate,my_glasses,2
-829,2005,4 - High,my_glasses,0
-830,2005,5 - Very High,my_glasses,0
-831,2005,6 - Top Tier,my_glasses,0
-832,2005,7 - Elite,my_glasses,0
-833,2006,1 - Very Low,my_glasses,0
-834,2006,2 - Low,my_glasses,0
-835,2006,3 - Moderate,my_glasses,0
-836,2006,4 - High,my_glasses,0
-837,2006,5 - Very High,my_glasses,0
-838,2006,6 - Top Tier,my_glasses,0
-839,2006,7 - Elite,my_glasses,0
-840,2007,1 - Very Low,my_glasses,0
-841,2007,2 - Low,my_glasses,0
-842,2007,3 - Moderate,my_glasses,0
-843,2007,4 - High,my_glasses,0
-844,2007,5 - Very High,my_glasses,0
-845,2007,6 - Top Tier,my_glasses,0
-846,2007,7 - Elite,my_glasses,0
-847,2008,1 - Very Low,my_glasses,0
-848,2008,2 - Low,my_glasses,0
-849,2008,3 - Moderate,my_glasses,0
-850,2008,4 - High,my_glasses,0
-851,2008,5 - Very High,my_glasses,0
-852,2008,6 - Top Tier,my_glasses,0
-853,2008,7 - Elite,my_glasses,0
-854,2009,1 - Very Low,my_glasses,0
-855,2009,2 - Low,my_glasses,1
-856,2009,3 - Moderate,my_glasses,1
-857,2009,4 - High,my_glasses,0
-858,2009,5 - Very High,my_glasses,0
-859,2009,6 - Top Tier,my_glasses,0
-860,2009,7 - Elite,my_glasses,0
-861,2010,1 - Very Low,my_glasses,0
-862,2010,2 - Low,my_glasses,0
-863,2010,3 - Moderate,my_glasses,0
-864,2010,4 - High,my_glasses,0
-865,2010,5 - Very High,my_glasses,0
-866,2010,6 - Top Tier,my_glasses,0
-867,2010,7 - Elite,my_glasses,0
-868,2011,1 - Very Low,my_glasses,1
-869,2011,2 - Low,my_glasses,0
-870,2011,3 - Moderate,my_glasses,0
-871,2011,4 - High,my_glasses,0
-872,2011,5 - Very High,my_glasses,0
-873,2011,6 - Top Tier,my_glasses,0
-874,2011,7 - Elite,my_glasses,0
-875,2012,1 - Very Low,my_glasses,0
-876,2012,2 - Low,my_glasses,0
-877,2012,3 - Moderate,my_glasses,0
-878,2012,4 - High,my_glasses,1
-879,2012,5 - Very High,my_glasses,1
-880,2012,6 - Top Tier,my_glasses,0
-881,2012,7 - Elite,my_glasses,0
-882,2013,1 - Very Low,my_glasses,0
-883,2013,2 - Low,my_glasses,0
-884,2013,3 - Moderate,my_glasses,1
-885,2013,4 - High,my_glasses,0
-886,2013,5 - Very High,my_glasses,0
-887,2013,6 - Top Tier,my_glasses,0
-888,2013,7 - Elite,my_glasses,0
-889,2014,1 - Very Low,my_glasses,0
-890,2014,2 - Low,my_glasses,0
-891,2014,3 - Moderate,my_glasses,0
-892,2014,4 - High,my_glasses,0
-893,2014,5 - Very High,my_glasses,0
-894,2014,6 - Top Tier,my_glasses,0
-895,2014,7 - Elite,my_glasses,0
-896,2015,1 - Very Low,my_glasses,0
-897,2015,2 - Low,my_glasses,0
-898,2015,3 - Moderate,my_glasses,0
-899,2015,4 - High,my_glasses,0
-900,2015,5 - Very High,my_glasses,0
-901,2015,6 - Top Tier,my_glasses,0
-902,2015,7 - Elite,my_glasses,0
-903,2016,1 - Very Low,my_glasses,0
-904,2016,2 - Low,my_glasses,0
-905,2016,3 - Moderate,my_glasses,0
-906,2016,4 - High,my_glasses,0
-907,2016,5 - Very High,my_glasses,0
-908,2016,6 - Top Tier,my_glasses,0
-909,2016,7 - Elite,my_glasses,0
-910,2017,1 - Very Low,my_glasses,0
-911,2017,2 - Low,my_glasses,1
-912,2017,3 - Moderate,my_glasses,0
-913,2017,4 - High,my_glasses,0
-914,2017,5 - Very High,my_glasses,0
-915,2017,6 - Top Tier,my_glasses,0
-916,2017,7 - Elite,my_glasses,0
-917,2018,1 - Very Low,my_glasses,0
-918,2018,2 - Low,my_glasses,0
-919,2018,3 - Moderate,my_glasses,0
-920,2018,4 - High,my_glasses,2
-921,2018,5 - Very High,my_glasses,0
-922,2018,6 - Top Tier,my_glasses,0
-923,2018,7 - Elite,my_glasses,0
-924,2019,1 - Very Low,my_glasses,0
-925,2019,2 - Low,my_glasses,0
-926,2019,3 - Moderate,my_glasses,3
-927,2019,4 - High,my_glasses,3
-928,2019,5 - Very High,my_glasses,1
-929,2019,6 - Top Tier,my_glasses,1
-930,2019,7 - Elite,my_glasses,0
-931,2020,1 - Very Low,my_glasses,0
-932,2020,2 - Low,my_glasses,0
-933,2020,3 - Moderate,my_glasses,0
-934,2020,4 - High,my_glasses,0
-935,2020,5 - Very High,my_glasses,0
-936,2020,6 - Top Tier,my_glasses,1
-937,2020,7 - Elite,my_glasses,0
-938,2021,1 - Very Low,my_glasses,0
-939,2021,2 - Low,my_glasses,0
-940,2021,3 - Moderate,my_glasses,0
-941,2021,4 - High,my_glasses,0
-942,2021,5 - Very High,my_glasses,0
-943,2021,6 - Top Tier,my_glasses,0
-944,2021,7 - Elite,my_glasses,0
-945,1969,1 - Very Low,just_about_wrapped_up,0
-946,1969,2 - Low,just_about_wrapped_up,0
-947,1969,3 - Moderate,just_about_wrapped_up,0
-948,1969,4 - High,just_about_wrapped_up,0
-949,1969,5 - Very High,just_about_wrapped_up,0
-950,1969,6 - Top Tier,just_about_wrapped_up,0
-951,1969,7 - Elite,just_about_wrapped_up,0
-952,1970,1 - Very Low,just_about_wrapped_up,0
-953,1970,2 - Low,just_about_wrapped_up,0
-954,1970,3 - Moderate,just_about_wrapped_up,0
-955,1970,4 - High,just_about_wrapped_up,0
-956,1970,5 - Very High,just_about_wrapped_up,0
-957,1970,6 - Top Tier,just_about_wrapped_up,0
-958,1970,7 - Elite,just_about_wrapped_up,0
-959,1972,1 - Very Low,just_about_wrapped_up,0
-960,1972,2 - Low,just_about_wrapped_up,0
-961,1972,3 - Moderate,just_about_wrapped_up,0
-962,1972,4 - High,just_about_wrapped_up,0
-963,1972,5 - Very High,just_about_wrapped_up,0
-964,1972,6 - Top Tier,just_about_wrapped_up,0
-965,1972,7 - Elite,just_about_wrapped_up,0
-966,1973,1 - Very Low,just_about_wrapped_up,0
-967,1973,2 - Low,just_about_wrapped_up,0
-968,1973,3 - Moderate,just_about_wrapped_up,0
-969,1973,4 - High,just_about_wrapped_up,0
-970,1973,5 - Very High,just_about_wrapped_up,0
-971,1973,6 - Top Tier,just_about_wrapped_up,0
-972,1973,7 - Elite,just_about_wrapped_up,0
-973,1976,1 - Very Low,just_about_wrapped_up,0
-974,1976,2 - Low,just_about_wrapped_up,0
-975,1976,3 - Moderate,just_about_wrapped_up,1
-976,1976,4 - High,just_about_wrapped_up,1
-977,1976,5 - Very High,just_about_wrapped_up,0
-978,1976,6 - Top Tier,just_about_wrapped_up,0
-979,1976,7 - Elite,just_about_wrapped_up,0
-980,1977,1 - Very Low,just_about_wrapped_up,0
-981,1977,2 - Low,just_about_wrapped_up,0
-982,1977,3 - Moderate,just_about_wrapped_up,0
-983,1977,4 - High,just_about_wrapped_up,0
-984,1977,5 - Very High,just_about_wrapped_up,2
-985,1977,6 - Top Tier,just_about_wrapped_up,0
-986,1977,7 - Elite,just_about_wrapped_up,0
-987,1978,1 - Very Low,just_about_wrapped_up,0
-988,1978,2 - Low,just_about_wrapped_up,0
-989,1978,3 - Moderate,just_about_wrapped_up,0
-990,1978,4 - High,just_about_wrapped_up,1
-991,1978,5 - Very High,just_about_wrapped_up,0
-992,1978,6 - Top Tier,just_about_wrapped_up,0
-993,1978,7 - Elite,just_about_wrapped_up,0
-994,1979,1 - Very Low,just_about_wrapped_up,0
-995,1979,2 - Low,just_about_wrapped_up,0
-996,1979,3 - Moderate,just_about_wrapped_up,0
-997,1979,4 - High,just_about_wrapped_up,0
-998,1979,5 - Very High,just_about_wrapped_up,0
-999,1979,6 - Top Tier,just_about_wrapped_up,0
-1000,1979,7 - Elite,just_about_wrapped_up,0
-1001,1980,1 - Very Low,just_about_wrapped_up,0
-1002,1980,2 - Low,just_about_wrapped_up,0
-1003,1980,3 - Moderate,just_about_wrapped_up,0
-1004,1980,4 - High,just_about_wrapped_up,0
-1005,1980,5 - Very High,just_about_wrapped_up,0
-1006,1980,6 - Top Tier,just_about_wrapped_up,0
-1007,1980,7 - Elite,just_about_wrapped_up,0
-1008,1981,1 - Very Low,just_about_wrapped_up,0
-1009,1981,2 - Low,just_about_wrapped_up,0
-1010,1981,3 - Moderate,just_about_wrapped_up,0
-1011,1981,4 - High,just_about_wrapped_up,0
-1012,1981,5 - Very High,just_about_wrapped_up,0
-1013,1981,6 - Top Tier,just_about_wrapped_up,0
-1014,1981,7 - Elite,just_about_wrapped_up,0
-1015,1982,1 - Very Low,just_about_wrapped_up,0
-1016,1982,2 - Low,just_about_wrapped_up,0
-1017,1982,3 - Moderate,just_about_wrapped_up,0
-1018,1982,4 - High,just_about_wrapped_up,0
-1019,1982,5 - Very High,just_about_wrapped_up,0
-1020,1982,6 - Top Tier,just_about_wrapped_up,0
-1021,1982,7 - Elite,just_about_wrapped_up,0
-1022,1983,1 - Very Low,just_about_wrapped_up,0
-1023,1983,2 - Low,just_about_wrapped_up,0
-1024,1983,3 - Moderate,just_about_wrapped_up,0
-1025,1983,4 - High,just_about_wrapped_up,0
-1026,1983,5 - Very High,just_about_wrapped_up,0
-1027,1983,6 - Top Tier,just_about_wrapped_up,0
-1028,1983,7 - Elite,just_about_wrapped_up,0
-1029,1984,1 - Very Low,just_about_wrapped_up,0
-1030,1984,2 - Low,just_about_wrapped_up,0
-1031,1984,3 - Moderate,just_about_wrapped_up,0
-1032,1984,4 - High,just_about_wrapped_up,0
-1033,1984,5 - Very High,just_about_wrapped_up,0
-1034,1984,6 - Top Tier,just_about_wrapped_up,0
-1035,1984,7 - Elite,just_about_wrapped_up,0
-1036,1985,1 - Very Low,just_about_wrapped_up,0
-1037,1985,2 - Low,just_about_wrapped_up,0
-1038,1985,3 - Moderate,just_about_wrapped_up,0
-1039,1985,4 - High,just_about_wrapped_up,0
-1040,1985,5 - Very High,just_about_wrapped_up,0
-1041,1985,6 - Top Tier,just_about_wrapped_up,0
-1042,1985,7 - Elite,just_about_wrapped_up,0
-1043,1987,1 - Very Low,just_about_wrapped_up,0
-1044,1987,2 - Low,just_about_wrapped_up,0
-1045,1987,3 - Moderate,just_about_wrapped_up,0
-1046,1987,4 - High,just_about_wrapped_up,0
-1047,1987,5 - Very High,just_about_wrapped_up,0
-1048,1987,6 - Top Tier,just_about_wrapped_up,0
-1049,1987,7 - Elite,just_about_wrapped_up,0
-1050,1988,1 - Very Low,just_about_wrapped_up,0
-1051,1988,2 - Low,just_about_wrapped_up,0
-1052,1988,3 - Moderate,just_about_wrapped_up,0
-1053,1988,4 - High,just_about_wrapped_up,0
-1054,1988,5 - Very High,just_about_wrapped_up,0
-1055,1988,6 - Top Tier,just_about_wrapped_up,0
-1056,1988,7 - Elite,just_about_wrapped_up,0
-1057,1989,1 - Very Low,just_about_wrapped_up,0
-1058,1989,2 - Low,just_about_wrapped_up,0
-1059,1989,3 - Moderate,just_about_wrapped_up,0
-1060,1989,4 - High,just_about_wrapped_up,0
-1061,1989,5 - Very High,just_about_wrapped_up,0
-1062,1989,6 - Top Tier,just_about_wrapped_up,0
-1063,1989,7 - Elite,just_about_wrapped_up,0
-1064,1990,1 - Very Low,just_about_wrapped_up,0
-1065,1990,2 - Low,just_about_wrapped_up,0
-1066,1990,3 - Moderate,just_about_wrapped_up,0
-1067,1990,4 - High,just_about_wrapped_up,0
-1068,1990,5 - Very High,just_about_wrapped_up,0
-1069,1990,6 - Top Tier,just_about_wrapped_up,0
-1070,1990,7 - Elite,just_about_wrapped_up,0
-1071,1991,1 - Very Low,just_about_wrapped_up,0
-1072,1991,2 - Low,just_about_wrapped_up,0
-1073,1991,3 - Moderate,just_about_wrapped_up,0
-1074,1991,4 - High,just_about_wrapped_up,0
-1075,1991,5 - Very High,just_about_wrapped_up,0
-1076,1991,6 - Top Tier,just_about_wrapped_up,0
-1077,1991,7 - Elite,just_about_wrapped_up,0
-1078,1994,1 - Very Low,just_about_wrapped_up,0
-1079,1994,2 - Low,just_about_wrapped_up,0
-1080,1994,3 - Moderate,just_about_wrapped_up,0
-1081,1994,4 - High,just_about_wrapped_up,0
-1082,1994,5 - Very High,just_about_wrapped_up,0
-1083,1994,6 - Top Tier,just_about_wrapped_up,0
-1084,1994,7 - Elite,just_about_wrapped_up,0
-1085,1997,1 - Very Low,just_about_wrapped_up,0
-1086,1997,2 - Low,just_about_wrapped_up,0
-1087,1997,3 - Moderate,just_about_wrapped_up,0
-1088,1997,4 - High,just_about_wrapped_up,0
-1089,1997,5 - Very High,just_about_wrapped_up,0
-1090,1997,6 - Top Tier,just_about_wrapped_up,0
-1091,1997,7 - Elite,just_about_wrapped_up,0
-1092,1998,1 - Very Low,just_about_wrapped_up,0
-1093,1998,2 - Low,just_about_wrapped_up,0
-1094,1998,3 - Moderate,just_about_wrapped_up,0
-1095,1998,4 - High,just_about_wrapped_up,0
-1096,1998,5 - Very High,just_about_wrapped_up,0
-1097,1998,6 - Top Tier,just_about_wrapped_up,0
-1098,1998,7 - Elite,just_about_wrapped_up,0
-1099,1999,1 - Very Low,just_about_wrapped_up,0
-1100,1999,2 - Low,just_about_wrapped_up,0
-1101,1999,3 - Moderate,just_about_wrapped_up,0
-1102,1999,4 - High,just_about_wrapped_up,0
-1103,1999,5 - Very High,just_about_wrapped_up,0
-1104,1999,6 - Top Tier,just_about_wrapped_up,0
-1105,1999,7 - Elite,just_about_wrapped_up,0
-1106,2000,1 - Very Low,just_about_wrapped_up,0
-1107,2000,2 - Low,just_about_wrapped_up,0
-1108,2000,3 - Moderate,just_about_wrapped_up,0
-1109,2000,4 - High,just_about_wrapped_up,0
-1110,2000,5 - Very High,just_about_wrapped_up,0
-1111,2000,6 - Top Tier,just_about_wrapped_up,0
-1112,2000,7 - Elite,just_about_wrapped_up,0
-1113,2001,1 - Very Low,just_about_wrapped_up,0
-1114,2001,2 - Low,just_about_wrapped_up,0
-1115,2001,3 - Moderate,just_about_wrapped_up,0
-1116,2001,4 - High,just_about_wrapped_up,0
-1117,2001,5 - Very High,just_about_wrapped_up,0
-1118,2001,6 - Top Tier,just_about_wrapped_up,0
-1119,2001,7 - Elite,just_about_wrapped_up,0
-1120,2002,1 - Very Low,just_about_wrapped_up,0
-1121,2002,2 - Low,just_about_wrapped_up,0
-1122,2002,3 - Moderate,just_about_wrapped_up,0
-1123,2002,4 - High,just_about_wrapped_up,1
-1124,2002,5 - Very High,just_about_wrapped_up,0
-1125,2002,6 - Top Tier,just_about_wrapped_up,0
-1126,2002,7 - Elite,just_about_wrapped_up,0
-1127,2003,1 - Very Low,just_about_wrapped_up,0
-1128,2003,2 - Low,just_about_wrapped_up,0
-1129,2003,3 - Moderate,just_about_wrapped_up,0
-1130,2003,4 - High,just_about_wrapped_up,3
-1131,2003,5 - Very High,just_about_wrapped_up,0
-1132,2003,6 - Top Tier,just_about_wrapped_up,0
-1133,2003,7 - Elite,just_about_wrapped_up,0
-1134,2004,1 - Very Low,just_about_wrapped_up,0
-1135,2004,2 - Low,just_about_wrapped_up,0
-1136,2004,3 - Moderate,just_about_wrapped_up,0
-1137,2004,4 - High,just_about_wrapped_up,0
-1138,2004,5 - Very High,just_about_wrapped_up,0
-1139,2004,6 - Top Tier,just_about_wrapped_up,0
-1140,2004,7 - Elite,just_about_wrapped_up,0
-1141,2005,1 - Very Low,just_about_wrapped_up,0
-1142,2005,2 - Low,just_about_wrapped_up,0
-1143,2005,3 - Moderate,just_about_wrapped_up,0
-1144,2005,4 - High,just_about_wrapped_up,2
-1145,2005,5 - Very High,just_about_wrapped_up,0
-1146,2005,6 - Top Tier,just_about_wrapped_up,0
-1147,2005,7 - Elite,just_about_wrapped_up,0
-1148,2006,1 - Very Low,just_about_wrapped_up,0
-1149,2006,2 - Low,just_about_wrapped_up,0
-1150,2006,3 - Moderate,just_about_wrapped_up,1
-1151,2006,4 - High,just_about_wrapped_up,0
-1152,2006,5 - Very High,just_about_wrapped_up,0
-1153,2006,6 - Top Tier,just_about_wrapped_up,0
-1154,2006,7 - Elite,just_about_wrapped_up,0
-1155,2007,1 - Very Low,just_about_wrapped_up,0
-1156,2007,2 - Low,just_about_wrapped_up,0
-1157,2007,3 - Moderate,just_about_wrapped_up,0
-1158,2007,4 - High,just_about_wrapped_up,0
-1159,2007,5 - Very High,just_about_wrapped_up,0
-1160,2007,6 - Top Tier,just_about_wrapped_up,0
-1161,2007,7 - Elite,just_about_wrapped_up,0
-1162,2008,1 - Very Low,just_about_wrapped_up,0
-1163,2008,2 - Low,just_about_wrapped_up,0
-1164,2008,3 - Moderate,just_about_wrapped_up,0
-1165,2008,4 - High,just_about_wrapped_up,0
-1166,2008,5 - Very High,just_about_wrapped_up,0
-1167,2008,6 - Top Tier,just_about_wrapped_up,0
-1168,2008,7 - Elite,just_about_wrapped_up,0
-1169,2009,1 - Very Low,just_about_wrapped_up,0
-1170,2009,2 - Low,just_about_wrapped_up,0
-1171,2009,3 - Moderate,just_about_wrapped_up,0
-1172,2009,4 - High,just_about_wrapped_up,0
-1173,2009,5 - Very High,just_about_wrapped_up,0
-1174,2009,6 - Top Tier,just_about_wrapped_up,0
-1175,2009,7 - Elite,just_about_wrapped_up,0
-1176,2010,1 - Very Low,just_about_wrapped_up,0
-1177,2010,2 - Low,just_about_wrapped_up,0
-1178,2010,3 - Moderate,just_about_wrapped_up,0
-1179,2010,4 - High,just_about_wrapped_up,1
-1180,2010,5 - Very High,just_about_wrapped_up,0
-1181,2010,6 - Top Tier,just_about_wrapped_up,0
-1182,2010,7 - Elite,just_about_wrapped_up,0
-1183,2011,1 - Very Low,just_about_wrapped_up,0
-1184,2011,2 - Low,just_about_wrapped_up,0
-1185,2011,3 - Moderate,just_about_wrapped_up,0
-1186,2011,4 - High,just_about_wrapped_up,0
-1187,2011,5 - Very High,just_about_wrapped_up,1
-1188,2011,6 - Top Tier,just_about_wrapped_up,0
-1189,2011,7 - Elite,just_about_wrapped_up,0
-1190,2012,1 - Very Low,just_about_wrapped_up,0
-1191,2012,2 - Low,just_about_wrapped_up,0
-1192,2012,3 - Moderate,just_about_wrapped_up,0
-1193,2012,4 - High,just_about_wrapped_up,0
-1194,2012,5 - Very High,just_about_wrapped_up,1
-1195,2012,6 - Top Tier,just_about_wrapped_up,0
-1196,2012,7 - Elite,just_about_wrapped_up,0
-1197,2013,1 - Very Low,just_about_wrapped_up,0
-1198,2013,2 - Low,just_about_wrapped_up,0
-1199,2013,3 - Moderate,just_about_wrapped_up,0
-1200,2013,4 - High,just_about_wrapped_up,0
-1201,2013,5 - Very High,just_about_wrapped_up,0
-1202,2013,6 - Top Tier,just_about_wrapped_up,0
-1203,2013,7 - Elite,just_about_wrapped_up,0
-1204,2014,1 - Very Low,just_about_wrapped_up,0
-1205,2014,2 - Low,just_about_wrapped_up,0
-1206,2014,3 - Moderate,just_about_wrapped_up,0
-1207,2014,4 - High,just_about_wrapped_up,0
-1208,2014,5 - Very High,just_about_wrapped_up,0
-1209,2014,6 - Top Tier,just_about_wrapped_up,0
-1210,2014,7 - Elite,just_about_wrapped_up,0
-1211,2015,1 - Very Low,just_about_wrapped_up,0
-1212,2015,2 - Low,just_about_wrapped_up,0
-1213,2015,3 - Moderate,just_about_wrapped_up,0
-1214,2015,4 - High,just_about_wrapped_up,0
-1215,2015,5 - Very High,just_about_wrapped_up,0
-1216,2015,6 - Top Tier,just_about_wrapped_up,0
-1217,2015,7 - Elite,just_about_wrapped_up,0
-1218,2016,1 - Very Low,just_about_wrapped_up,0
-1219,2016,2 - Low,just_about_wrapped_up,0
-1220,2016,3 - Moderate,just_about_wrapped_up,0
-1221,2016,4 - High,just_about_wrapped_up,0
-1222,2016,5 - Very High,just_about_wrapped_up,0
-1223,2016,6 - Top Tier,just_about_wrapped_up,0
-1224,2016,7 - Elite,just_about_wrapped_up,0
-1225,2017,1 - Very Low,just_about_wrapped_up,0
-1226,2017,2 - Low,just_about_wrapped_up,0
-1227,2017,3 - Moderate,just_about_wrapped_up,0
-1228,2017,4 - High,just_about_wrapped_up,0
-1229,2017,5 - Very High,just_about_wrapped_up,0
-1230,2017,6 - Top Tier,just_about_wrapped_up,0
-1231,2017,7 - Elite,just_about_wrapped_up,0
-1232,2018,1 - Very Low,just_about_wrapped_up,0
-1233,2018,2 - Low,just_about_wrapped_up,0
-1234,2018,3 - Moderate,just_about_wrapped_up,0
-1235,2018,4 - High,just_about_wrapped_up,0
-1236,2018,5 - Very High,just_about_wrapped_up,0
-1237,2018,6 - Top Tier,just_about_wrapped_up,0
-1238,2018,7 - Elite,just_about_wrapped_up,0
-1239,2019,1 - Very Low,just_about_wrapped_up,0
-1240,2019,2 - Low,just_about_wrapped_up,0
-1241,2019,3 - Moderate,just_about_wrapped_up,0
-1242,2019,4 - High,just_about_wrapped_up,0
-1243,2019,5 - Very High,just_about_wrapped_up,0
-1244,2019,6 - Top Tier,just_about_wrapped_up,0
-1245,2019,7 - Elite,just_about_wrapped_up,0
-1246,2020,1 - Very Low,just_about_wrapped_up,0
-1247,2020,2 - Low,just_about_wrapped_up,0
-1248,2020,3 - Moderate,just_about_wrapped_up,0
-1249,2020,4 - High,just_about_wrapped_up,0
-1250,2020,5 - Very High,just_about_wrapped_up,1
-1251,2020,6 - Top Tier,just_about_wrapped_up,0
-1252,2020,7 - Elite,just_about_wrapped_up,0
-1253,2021,1 - Very Low,just_about_wrapped_up,0
-1254,2021,2 - Low,just_about_wrapped_up,0
-1255,2021,3 - Moderate,just_about_wrapped_up,0
-1256,2021,4 - High,just_about_wrapped_up,0
-1257,2021,5 - Very High,just_about_wrapped_up,0
-1258,2021,6 - Top Tier,just_about_wrapped_up,0
-1259,2021,7 - Elite,just_about_wrapped_up,0
-1260,1969,1 - Very Low,groovy,0
-1261,1969,2 - Low,groovy,0
-1262,1969,3 - Moderate,groovy,0
-1263,1969,4 - High,groovy,1
-1264,1969,5 - Very High,groovy,4
-1265,1969,6 - Top Tier,groovy,0
-1266,1969,7 - Elite,groovy,0
-1267,1970,1 - Very Low,groovy,0
-1268,1970,2 - Low,groovy,0
-1269,1970,3 - Moderate,groovy,0
-1270,1970,4 - High,groovy,0
-1271,1970,5 - Very High,groovy,0
-1272,1970,6 - Top Tier,groovy,0
-1273,1970,7 - Elite,groovy,0
-1274,1972,1 - Very Low,groovy,0
-1275,1972,2 - Low,groovy,0
-1276,1972,3 - Moderate,groovy,0
-1277,1972,4 - High,groovy,1
-1278,1972,5 - Very High,groovy,0
-1279,1972,6 - Top Tier,groovy,0
-1280,1972,7 - Elite,groovy,0
-1281,1973,1 - Very Low,groovy,0
-1282,1973,2 - Low,groovy,0
-1283,1973,3 - Moderate,groovy,0
-1284,1973,4 - High,groovy,0
-1285,1973,5 - Very High,groovy,0
-1286,1973,6 - Top Tier,groovy,0
-1287,1973,7 - Elite,groovy,0
-1288,1976,1 - Very Low,groovy,0
-1289,1976,2 - Low,groovy,0
-1290,1976,3 - Moderate,groovy,0
-1291,1976,4 - High,groovy,0
-1292,1976,5 - Very High,groovy,0
-1293,1976,6 - Top Tier,groovy,0
-1294,1976,7 - Elite,groovy,0
-1295,1977,1 - Very Low,groovy,0
-1296,1977,2 - Low,groovy,0
-1297,1977,3 - Moderate,groovy,0
-1298,1977,4 - High,groovy,0
-1299,1977,5 - Very High,groovy,0
-1300,1977,6 - Top Tier,groovy,0
-1301,1977,7 - Elite,groovy,0
-1302,1978,1 - Very Low,groovy,0
-1303,1978,2 - Low,groovy,0
-1304,1978,3 - Moderate,groovy,0
-1305,1978,4 - High,groovy,0
-1306,1978,5 - Very High,groovy,0
-1307,1978,6 - Top Tier,groovy,0
-1308,1978,7 - Elite,groovy,0
-1309,1979,1 - Very Low,groovy,0
-1310,1979,2 - Low,groovy,0
-1311,1979,3 - Moderate,groovy,0
-1312,1979,4 - High,groovy,0
-1313,1979,5 - Very High,groovy,0
-1314,1979,6 - Top Tier,groovy,0
-1315,1979,7 - Elite,groovy,0
-1316,1980,1 - Very Low,groovy,0
-1317,1980,2 - Low,groovy,0
-1318,1980,3 - Moderate,groovy,0
-1319,1980,4 - High,groovy,0
-1320,1980,5 - Very High,groovy,0
-1321,1980,6 - Top Tier,groovy,0
-1322,1980,7 - Elite,groovy,0
-1323,1981,1 - Very Low,groovy,0
-1324,1981,2 - Low,groovy,0
-1325,1981,3 - Moderate,groovy,0
-1326,1981,4 - High,groovy,0
-1327,1981,5 - Very High,groovy,0
-1328,1981,6 - Top Tier,groovy,0
-1329,1981,7 - Elite,groovy,0
-1330,1982,1 - Very Low,groovy,0
-1331,1982,2 - Low,groovy,0
-1332,1982,3 - Moderate,groovy,0
-1333,1982,4 - High,groovy,0
-1334,1982,5 - Very High,groovy,0
-1335,1982,6 - Top Tier,groovy,0
-1336,1982,7 - Elite,groovy,0
-1337,1983,1 - Very Low,groovy,0
-1338,1983,2 - Low,groovy,0
-1339,1983,3 - Moderate,groovy,0
-1340,1983,4 - High,groovy,0
-1341,1983,5 - Very High,groovy,0
-1342,1983,6 - Top Tier,groovy,0
-1343,1983,7 - Elite,groovy,0
-1344,1984,1 - Very Low,groovy,0
-1345,1984,2 - Low,groovy,0
-1346,1984,3 - Moderate,groovy,0
-1347,1984,4 - High,groovy,0
-1348,1984,5 - Very High,groovy,0
-1349,1984,6 - Top Tier,groovy,0
-1350,1984,7 - Elite,groovy,0
-1351,1985,1 - Very Low,groovy,0
-1352,1985,2 - Low,groovy,0
-1353,1985,3 - Moderate,groovy,0
-1354,1985,4 - High,groovy,0
-1355,1985,5 - Very High,groovy,0
-1356,1985,6 - Top Tier,groovy,0
-1357,1985,7 - Elite,groovy,0
-1358,1987,1 - Very Low,groovy,0
-1359,1987,2 - Low,groovy,0
-1360,1987,3 - Moderate,groovy,0
-1361,1987,4 - High,groovy,0
-1362,1987,5 - Very High,groovy,0
-1363,1987,6 - Top Tier,groovy,0
-1364,1987,7 - Elite,groovy,0
-1365,1988,1 - Very Low,groovy,0
-1366,1988,2 - Low,groovy,0
-1367,1988,3 - Moderate,groovy,0
-1368,1988,4 - High,groovy,0
-1369,1988,5 - Very High,groovy,0
-1370,1988,6 - Top Tier,groovy,0
-1371,1988,7 - Elite,groovy,0
-1372,1989,1 - Very Low,groovy,0
-1373,1989,2 - Low,groovy,0
-1374,1989,3 - Moderate,groovy,0
-1375,1989,4 - High,groovy,0
-1376,1989,5 - Very High,groovy,0
-1377,1989,6 - Top Tier,groovy,0
-1378,1989,7 - Elite,groovy,0
-1379,1990,1 - Very Low,groovy,0
-1380,1990,2 - Low,groovy,0
-1381,1990,3 - Moderate,groovy,0
-1382,1990,4 - High,groovy,0
-1383,1990,5 - Very High,groovy,0
-1384,1990,6 - Top Tier,groovy,0
-1385,1990,7 - Elite,groovy,0
-1386,1991,1 - Very Low,groovy,0
-1387,1991,2 - Low,groovy,0
-1388,1991,3 - Moderate,groovy,0
-1389,1991,4 - High,groovy,0
-1390,1991,5 - Very High,groovy,0
-1391,1991,6 - Top Tier,groovy,0
-1392,1991,7 - Elite,groovy,0
-1393,1994,1 - Very Low,groovy,0
-1394,1994,2 - Low,groovy,0
-1395,1994,3 - Moderate,groovy,0
-1396,1994,4 - High,groovy,0
-1397,1994,5 - Very High,groovy,0
-1398,1994,6 - Top Tier,groovy,0
-1399,1994,7 - Elite,groovy,0
-1400,1997,1 - Very Low,groovy,0
-1401,1997,2 - Low,groovy,0
-1402,1997,3 - Moderate,groovy,0
-1403,1997,4 - High,groovy,0
-1404,1997,5 - Very High,groovy,0
-1405,1997,6 - Top Tier,groovy,0
-1406,1997,7 - Elite,groovy,0
-1407,1998,1 - Very Low,groovy,0
-1408,1998,2 - Low,groovy,0
-1409,1998,3 - Moderate,groovy,0
-1410,1998,4 - High,groovy,0
-1411,1998,5 - Very High,groovy,2
-1412,1998,6 - Top Tier,groovy,0
-1413,1998,7 - Elite,groovy,0
-1414,1999,1 - Very Low,groovy,0
-1415,1999,2 - Low,groovy,0
-1416,1999,3 - Moderate,groovy,0
-1417,1999,4 - High,groovy,1
-1418,1999,5 - Very High,groovy,0
-1419,1999,6 - Top Tier,groovy,0
-1420,1999,7 - Elite,groovy,0
-1421,2000,1 - Very Low,groovy,0
-1422,2000,2 - Low,groovy,0
-1423,2000,3 - Moderate,groovy,0
-1424,2000,4 - High,groovy,14
-1425,2000,5 - Very High,groovy,0
-1426,2000,6 - Top Tier,groovy,0
-1427,2000,7 - Elite,groovy,0
-1428,2001,1 - Very Low,groovy,0
-1429,2001,2 - Low,groovy,0
-1430,2001,3 - Moderate,groovy,0
-1431,2001,4 - High,groovy,1
-1432,2001,5 - Very High,groovy,0
-1433,2001,6 - Top Tier,groovy,0
-1434,2001,7 - Elite,groovy,0
-1435,2002,1 - Very Low,groovy,0
-1436,2002,2 - Low,groovy,0
-1437,2002,3 - Moderate,groovy,0
-1438,2002,4 - High,groovy,0
-1439,2002,5 - Very High,groovy,2
-1440,2002,6 - Top Tier,groovy,0
-1441,2002,7 - Elite,groovy,0
-1442,2003,1 - Very Low,groovy,0
-1443,2003,2 - Low,groovy,0
-1444,2003,3 - Moderate,groovy,0
-1445,2003,4 - High,groovy,0
-1446,2003,5 - Very High,groovy,0
-1447,2003,6 - Top Tier,groovy,0
-1448,2003,7 - Elite,groovy,0
-1449,2004,1 - Very Low,groovy,0
-1450,2004,2 - Low,groovy,0
-1451,2004,3 - Moderate,groovy,1
-1452,2004,4 - High,groovy,0
-1453,2004,5 - Very High,groovy,0
-1454,2004,6 - Top Tier,groovy,0
-1455,2004,7 - Elite,groovy,0
-1456,2005,1 - Very Low,groovy,0
-1457,2005,2 - Low,groovy,0
-1458,2005,3 - Moderate,groovy,1
-1459,2005,4 - High,groovy,0
-1460,2005,5 - Very High,groovy,0
-1461,2005,6 - Top Tier,groovy,0
-1462,2005,7 - Elite,groovy,0
-1463,2006,1 - Very Low,groovy,0
-1464,2006,2 - Low,groovy,0
-1465,2006,3 - Moderate,groovy,0
-1466,2006,4 - High,groovy,0
-1467,2006,5 - Very High,groovy,0
-1468,2006,6 - Top Tier,groovy,0
-1469,2006,7 - Elite,groovy,0
-1470,2007,1 - Very Low,groovy,0
-1471,2007,2 - Low,groovy,0
-1472,2007,3 - Moderate,groovy,0
-1473,2007,4 - High,groovy,0
-1474,2007,5 - Very High,groovy,0
-1475,2007,6 - Top Tier,groovy,0
-1476,2007,7 - Elite,groovy,0
-1477,2008,1 - Very Low,groovy,0
-1478,2008,2 - Low,groovy,0
-1479,2008,3 - Moderate,groovy,1
-1480,2008,4 - High,groovy,0
-1481,2008,5 - Very High,groovy,0
-1482,2008,6 - Top Tier,groovy,0
-1483,2008,7 - Elite,groovy,0
-1484,2009,1 - Very Low,groovy,0
-1485,2009,2 - Low,groovy,1
-1486,2009,3 - Moderate,groovy,0
-1487,2009,4 - High,groovy,0
-1488,2009,5 - Very High,groovy,0
-1489,2009,6 - Top Tier,groovy,0
-1490,2009,7 - Elite,groovy,0
-1491,2010,1 - Very Low,groovy,0
-1492,2010,2 - Low,groovy,0
-1493,2010,3 - Moderate,groovy,0
-1494,2010,4 - High,groovy,0
-1495,2010,5 - Very High,groovy,0
-1496,2010,6 - Top Tier,groovy,0
-1497,2010,7 - Elite,groovy,0
-1498,2011,1 - Very Low,groovy,1
-1499,2011,2 - Low,groovy,0
-1500,2011,3 - Moderate,groovy,0
-1501,2011,4 - High,groovy,0
-1502,2011,5 - Very High,groovy,0
-1503,2011,6 - Top Tier,groovy,0
-1504,2011,7 - Elite,groovy,0
-1505,2012,1 - Very Low,groovy,0
-1506,2012,2 - Low,groovy,0
-1507,2012,3 - Moderate,groovy,0
-1508,2012,4 - High,groovy,0
-1509,2012,5 - Very High,groovy,0
-1510,2012,6 - Top Tier,groovy,0
-1511,2012,7 - Elite,groovy,0
-1512,2013,1 - Very Low,groovy,0
-1513,2013,2 - Low,groovy,1
-1514,2013,3 - Moderate,groovy,1
-1515,2013,4 - High,groovy,0
-1516,2013,5 - Very High,groovy,0
-1517,2013,6 - Top Tier,groovy,0
-1518,2013,7 - Elite,groovy,0
-1519,2014,1 - Very Low,groovy,0
-1520,2014,2 - Low,groovy,0
-1521,2014,3 - Moderate,groovy,0
-1522,2014,4 - High,groovy,0
-1523,2014,5 - Very High,groovy,0
-1524,2014,6 - Top Tier,groovy,0
-1525,2014,7 - Elite,groovy,0
-1526,2015,1 - Very Low,groovy,0
-1527,2015,2 - Low,groovy,0
-1528,2015,3 - Moderate,groovy,0
-1529,2015,4 - High,groovy,0
-1530,2015,5 - Very High,groovy,0
-1531,2015,6 - Top Tier,groovy,0
-1532,2015,7 - Elite,groovy,0
-1533,2016,1 - Very Low,groovy,0
-1534,2016,2 - Low,groovy,0
-1535,2016,3 - Moderate,groovy,0
-1536,2016,4 - High,groovy,0
-1537,2016,5 - Very High,groovy,0
-1538,2016,6 - Top Tier,groovy,0
-1539,2016,7 - Elite,groovy,0
-1540,2017,1 - Very Low,groovy,0
-1541,2017,2 - Low,groovy,0
-1542,2017,3 - Moderate,groovy,0
-1543,2017,4 - High,groovy,0
-1544,2017,5 - Very High,groovy,0
-1545,2017,6 - Top Tier,groovy,0
-1546,2017,7 - Elite,groovy,0
-1547,2018,1 - Very Low,groovy,0
-1548,2018,2 - Low,groovy,0
-1549,2018,3 - Moderate,groovy,0
-1550,2018,4 - High,groovy,0
-1551,2018,5 - Very High,groovy,0
-1552,2018,6 - Top Tier,groovy,0
-1553,2018,7 - Elite,groovy,0
-1554,2019,1 - Very Low,groovy,0
-1555,2019,2 - Low,groovy,0
-1556,2019,3 - Moderate,groovy,0
-1557,2019,4 - High,groovy,0
-1558,2019,5 - Very High,groovy,0
-1559,2019,6 - Top Tier,groovy,0
-1560,2019,7 - Elite,groovy,0
-1561,2020,1 - Very Low,groovy,0
-1562,2020,2 - Low,groovy,0
-1563,2020,3 - Moderate,groovy,0
-1564,2020,4 - High,groovy,1
-1565,2020,5 - Very High,groovy,0
-1566,2020,6 - Top Tier,groovy,0
-1567,2020,7 - Elite,groovy,0
-1568,2021,1 - Very Low,groovy,0
-1569,2021,2 - Low,groovy,0
-1570,2021,3 - Moderate,groovy,0
-1571,2021,4 - High,groovy,0
-1572,2021,5 - Very High,groovy,0
-1573,2021,6 - Top Tier,groovy,0
-1574,2021,7 - Elite,groovy,0
-1575,1969,1 - Very Low,zoinks,0
-1576,1969,2 - Low,zoinks,0
-1577,1969,3 - Moderate,zoinks,0
-1578,1969,4 - High,zoinks,1
-1579,1969,5 - Very High,zoinks,31
-1580,1969,6 - Top Tier,zoinks,0
-1581,1969,7 - Elite,zoinks,0
-1582,1970,1 - Very Low,zoinks,0
-1583,1970,2 - Low,zoinks,0
-1584,1970,3 - Moderate,zoinks,0
-1585,1970,4 - High,zoinks,7
-1586,1970,5 - Very High,zoinks,27
-1587,1970,6 - Top Tier,zoinks,3
-1588,1970,7 - Elite,zoinks,0
-1589,1972,1 - Very Low,zoinks,0
-1590,1972,2 - Low,zoinks,0
-1591,1972,3 - Moderate,zoinks,0
-1592,1972,4 - High,zoinks,9
-1593,1972,5 - Very High,zoinks,14
-1594,1972,6 - Top Tier,zoinks,0
-1595,1972,7 - Elite,zoinks,0
-1596,1973,1 - Very Low,zoinks,0
-1597,1973,2 - Low,zoinks,0
-1598,1973,3 - Moderate,zoinks,0
-1599,1973,4 - High,zoinks,0
-1600,1973,5 - Very High,zoinks,0
-1601,1973,6 - Top Tier,zoinks,0
-1602,1973,7 - Elite,zoinks,0
-1603,1976,1 - Very Low,zoinks,0
-1604,1976,2 - Low,zoinks,0
-1605,1976,3 - Moderate,zoinks,16
-1606,1976,4 - High,zoinks,72
-1607,1976,5 - Very High,zoinks,28
-1608,1976,6 - Top Tier,zoinks,0
-1609,1976,7 - Elite,zoinks,0
-1610,1977,1 - Very Low,zoinks,0
-1611,1977,2 - Low,zoinks,0
-1612,1977,3 - Moderate,zoinks,1
-1613,1977,4 - High,zoinks,47
-1614,1977,5 - Very High,zoinks,30
-1615,1977,6 - Top Tier,zoinks,0
-1616,1977,7 - Elite,zoinks,0
-1617,1978,1 - Very Low,zoinks,0
-1618,1978,2 - Low,zoinks,0
-1619,1978,3 - Moderate,zoinks,2
-1620,1978,4 - High,zoinks,71
-1621,1978,5 - Very High,zoinks,7
-1622,1978,6 - Top Tier,zoinks,0
-1623,1978,7 - Elite,zoinks,0
-1624,1979,1 - Very Low,zoinks,0
-1625,1979,2 - Low,zoinks,0
-1626,1979,3 - Moderate,zoinks,2
-1627,1979,4 - High,zoinks,62
-1628,1979,5 - Very High,zoinks,3
-1629,1979,6 - Top Tier,zoinks,0
-1630,1979,7 - Elite,zoinks,0
-1631,1980,1 - Very Low,zoinks,0
-1632,1980,2 - Low,zoinks,0
-1633,1980,3 - Moderate,zoinks,18
-1634,1980,4 - High,zoinks,44
-1635,1980,5 - Very High,zoinks,0
-1636,1980,6 - Top Tier,zoinks,0
-1637,1980,7 - Elite,zoinks,0
-1638,1981,1 - Very Low,zoinks,0
-1639,1981,2 - Low,zoinks,0
-1640,1981,3 - Moderate,zoinks,2
-1641,1981,4 - High,zoinks,92
-1642,1981,5 - Very High,zoinks,0
-1643,1981,6 - Top Tier,zoinks,0
-1644,1981,7 - Elite,zoinks,0
-1645,1982,1 - Very Low,zoinks,0
-1646,1982,2 - Low,zoinks,0
-1647,1982,3 - Moderate,zoinks,5
-1648,1982,4 - High,zoinks,33
-1649,1982,5 - Very High,zoinks,0
-1650,1982,6 - Top Tier,zoinks,0
-1651,1982,7 - Elite,zoinks,0
-1652,1983,1 - Very Low,zoinks,0
-1653,1983,2 - Low,zoinks,0
-1654,1983,3 - Moderate,zoinks,13
-1655,1983,4 - High,zoinks,39
-1656,1983,5 - Very High,zoinks,0
-1657,1983,6 - Top Tier,zoinks,0
-1658,1983,7 - Elite,zoinks,0
-1659,1984,1 - Very Low,zoinks,0
-1660,1984,2 - Low,zoinks,0
-1661,1984,3 - Moderate,zoinks,0
-1662,1984,4 - High,zoinks,36
-1663,1984,5 - Very High,zoinks,8
-1664,1984,6 - Top Tier,zoinks,0
-1665,1984,7 - Elite,zoinks,0
-1666,1985,1 - Very Low,zoinks,0
-1667,1985,2 - Low,zoinks,0
-1668,1985,3 - Moderate,zoinks,0
-1669,1985,4 - High,zoinks,20
-1670,1985,5 - Very High,zoinks,2
-1671,1985,6 - Top Tier,zoinks,0
-1672,1985,7 - Elite,zoinks,0
-1673,1987,1 - Very Low,zoinks,0
-1674,1987,2 - Low,zoinks,0
-1675,1987,3 - Moderate,zoinks,0
-1676,1987,4 - High,zoinks,2
-1677,1987,5 - Very High,zoinks,0
-1678,1987,6 - Top Tier,zoinks,0
-1679,1987,7 - Elite,zoinks,0
-1680,1988,1 - Very Low,zoinks,0
-1681,1988,2 - Low,zoinks,0
-1682,1988,3 - Moderate,zoinks,0
-1683,1988,4 - High,zoinks,52
-1684,1988,5 - Very High,zoinks,2
-1685,1988,6 - Top Tier,zoinks,0
-1686,1988,7 - Elite,zoinks,0
-1687,1989,1 - Very Low,zoinks,0
-1688,1989,2 - Low,zoinks,0
-1689,1989,3 - Moderate,zoinks,0
-1690,1989,4 - High,zoinks,3
-1691,1989,5 - Very High,zoinks,3
-1692,1989,6 - Top Tier,zoinks,0
-1693,1989,7 - Elite,zoinks,0
-1694,1990,1 - Very Low,zoinks,0
-1695,1990,2 - Low,zoinks,0
-1696,1990,3 - Moderate,zoinks,0
-1697,1990,4 - High,zoinks,3
-1698,1990,5 - Very High,zoinks,0
-1699,1990,6 - Top Tier,zoinks,0
-1700,1990,7 - Elite,zoinks,0
-1701,1991,1 - Very Low,zoinks,0
-1702,1991,2 - Low,zoinks,0
-1703,1991,3 - Moderate,zoinks,4
-1704,1991,4 - High,zoinks,1
-1705,1991,5 - Very High,zoinks,0
-1706,1991,6 - Top Tier,zoinks,0
-1707,1991,7 - Elite,zoinks,0
-1708,1994,1 - Very Low,zoinks,0
-1709,1994,2 - Low,zoinks,2
-1710,1994,3 - Moderate,zoinks,0
-1711,1994,4 - High,zoinks,0
-1712,1994,5 - Very High,zoinks,0
-1713,1994,6 - Top Tier,zoinks,0
-1714,1994,7 - Elite,zoinks,0
-1715,1997,1 - Very Low,zoinks,0
-1716,1997,2 - Low,zoinks,0
-1717,1997,3 - Moderate,zoinks,0
-1718,1997,4 - High,zoinks,0
-1719,1997,5 - Very High,zoinks,5
-1720,1997,6 - Top Tier,zoinks,0
-1721,1997,7 - Elite,zoinks,0
-1722,1998,1 - Very Low,zoinks,0
-1723,1998,2 - Low,zoinks,0
-1724,1998,3 - Moderate,zoinks,0
-1725,1998,4 - High,zoinks,0
-1726,1998,5 - Very High,zoinks,14
-1727,1998,6 - Top Tier,zoinks,0
-1728,1998,7 - Elite,zoinks,0
-1729,1999,1 - Very Low,zoinks,0
-1730,1999,2 - Low,zoinks,0
-1731,1999,3 - Moderate,zoinks,0
-1732,1999,4 - High,zoinks,8
-1733,1999,5 - Very High,zoinks,0
-1734,1999,6 - Top Tier,zoinks,0
-1735,1999,7 - Elite,zoinks,0
-1736,2000,1 - Very Low,zoinks,0
-1737,2000,2 - Low,zoinks,0
-1738,2000,3 - Moderate,zoinks,0
-1739,2000,4 - High,zoinks,6
-1740,2000,5 - Very High,zoinks,0
-1741,2000,6 - Top Tier,zoinks,0
-1742,2000,7 - Elite,zoinks,0
-1743,2001,1 - Very Low,zoinks,0
-1744,2001,2 - Low,zoinks,0
-1745,2001,3 - Moderate,zoinks,0
-1746,2001,4 - High,zoinks,11
-1747,2001,5 - Very High,zoinks,0
-1748,2001,6 - Top Tier,zoinks,0
-1749,2001,7 - Elite,zoinks,0
-1750,2002,1 - Very Low,zoinks,0
-1751,2002,2 - Low,zoinks,0
-1752,2002,3 - Moderate,zoinks,0
-1753,2002,4 - High,zoinks,18
-1754,2002,5 - Very High,zoinks,5
-1755,2002,6 - Top Tier,zoinks,0
-1756,2002,7 - Elite,zoinks,0
-1757,2003,1 - Very Low,zoinks,0
-1758,2003,2 - Low,zoinks,0
-1759,2003,3 - Moderate,zoinks,10
-1760,2003,4 - High,zoinks,15
-1761,2003,5 - Very High,zoinks,0
-1762,2003,6 - Top Tier,zoinks,0
-1763,2003,7 - Elite,zoinks,0
-1764,2004,1 - Very Low,zoinks,0
-1765,2004,2 - Low,zoinks,0
-1766,2004,3 - Moderate,zoinks,13
-1767,2004,4 - High,zoinks,14
-1768,2004,5 - Very High,zoinks,0
-1769,2004,6 - Top Tier,zoinks,0
-1770,2004,7 - Elite,zoinks,0
-1771,2005,1 - Very Low,zoinks,0
-1772,2005,2 - Low,zoinks,0
-1773,2005,3 - Moderate,zoinks,6
-1774,2005,4 - High,zoinks,16
-1775,2005,5 - Very High,zoinks,2
-1776,2005,6 - Top Tier,zoinks,0
-1777,2005,7 - Elite,zoinks,0
-1778,2006,1 - Very Low,zoinks,0
-1779,2006,2 - Low,zoinks,4
-1780,2006,3 - Moderate,zoinks,6
-1781,2006,4 - High,zoinks,0
-1782,2006,5 - Very High,zoinks,0
-1783,2006,6 - Top Tier,zoinks,0
-1784,2006,7 - Elite,zoinks,0
-1785,2007,1 - Very Low,zoinks,2
-1786,2007,2 - Low,zoinks,9
-1787,2007,3 - Moderate,zoinks,15
-1788,2007,4 - High,zoinks,0
-1789,2007,5 - Very High,zoinks,0
-1790,2007,6 - Top Tier,zoinks,0
-1791,2007,7 - Elite,zoinks,0
-1792,2008,1 - Very Low,zoinks,17
-1793,2008,2 - Low,zoinks,3
-1794,2008,3 - Moderate,zoinks,15
-1795,2008,4 - High,zoinks,0
-1796,2008,5 - Very High,zoinks,0
-1797,2008,6 - Top Tier,zoinks,0
-1798,2008,7 - Elite,zoinks,0
-1799,2009,1 - Very Low,zoinks,0
-1800,2009,2 - Low,zoinks,3
-1801,2009,3 - Moderate,zoinks,12
-1802,2009,4 - High,zoinks,0
-1803,2009,5 - Very High,zoinks,0
-1804,2009,6 - Top Tier,zoinks,0
-1805,2009,7 - Elite,zoinks,0
-1806,2010,1 - Very Low,zoinks,0
-1807,2010,2 - Low,zoinks,0
-1808,2010,3 - Moderate,zoinks,0
-1809,2010,4 - High,zoinks,9
-1810,2010,5 - Very High,zoinks,6
-1811,2010,6 - Top Tier,zoinks,0
-1812,2010,7 - Elite,zoinks,0
-1813,2011,1 - Very Low,zoinks,4
-1814,2011,2 - Low,zoinks,0
-1815,2011,3 - Moderate,zoinks,3
-1816,2011,4 - High,zoinks,2
-1817,2011,5 - Very High,zoinks,9
-1818,2011,6 - Top Tier,zoinks,3
-1819,2011,7 - Elite,zoinks,0
-1820,2012,1 - Very Low,zoinks,0
-1821,2012,2 - Low,zoinks,0
-1822,2012,3 - Moderate,zoinks,1
-1823,2012,4 - High,zoinks,3
-1824,2012,5 - Very High,zoinks,5
-1825,2012,6 - Top Tier,zoinks,0
-1826,2012,7 - Elite,zoinks,0
-1827,2013,1 - Very Low,zoinks,0
-1828,2013,2 - Low,zoinks,2
-1829,2013,3 - Moderate,zoinks,5
-1830,2013,4 - High,zoinks,1
-1831,2013,5 - Very High,zoinks,5
-1832,2013,6 - Top Tier,zoinks,6
-1833,2013,7 - Elite,zoinks,0
-1834,2014,1 - Very Low,zoinks,0
-1835,2014,2 - Low,zoinks,0
-1836,2014,3 - Moderate,zoinks,8
-1837,2014,4 - High,zoinks,0
-1838,2014,5 - Very High,zoinks,0
-1839,2014,6 - Top Tier,zoinks,0
-1840,2014,7 - Elite,zoinks,0
-1841,2015,1 - Very Low,zoinks,0
-1842,2015,2 - Low,zoinks,0
-1843,2015,3 - Moderate,zoinks,2
-1844,2015,4 - High,zoinks,8
-1845,2015,5 - Very High,zoinks,0
-1846,2015,6 - Top Tier,zoinks,0
-1847,2015,7 - Elite,zoinks,0
-1848,2016,1 - Very Low,zoinks,0
-1849,2016,2 - Low,zoinks,2
-1850,2016,3 - Moderate,zoinks,3
-1851,2016,4 - High,zoinks,2
-1852,2016,5 - Very High,zoinks,4
-1853,2016,6 - Top Tier,zoinks,0
-1854,2016,7 - Elite,zoinks,0
-1855,2017,1 - Very Low,zoinks,0
-1856,2017,2 - Low,zoinks,2
-1857,2017,3 - Moderate,zoinks,2
-1858,2017,4 - High,zoinks,6
-1859,2017,5 - Very High,zoinks,1
-1860,2017,6 - Top Tier,zoinks,0
-1861,2017,7 - Elite,zoinks,0
-1862,2018,1 - Very Low,zoinks,0
-1863,2018,2 - Low,zoinks,0
-1864,2018,3 - Moderate,zoinks,7
-1865,2018,4 - High,zoinks,4
-1866,2018,5 - Very High,zoinks,1
-1867,2018,6 - Top Tier,zoinks,0
-1868,2018,7 - Elite,zoinks,1
-1869,2019,1 - Very Low,zoinks,0
-1870,2019,2 - Low,zoinks,0
-1871,2019,3 - Moderate,zoinks,6
-1872,2019,4 - High,zoinks,10
-1873,2019,5 - Very High,zoinks,6
-1874,2019,6 - Top Tier,zoinks,4
-1875,2019,7 - Elite,zoinks,0
-1876,2020,1 - Very Low,zoinks,0
-1877,2020,2 - Low,zoinks,0
-1878,2020,3 - Moderate,zoinks,5
-1879,2020,4 - High,zoinks,1
-1880,2020,5 - Very High,zoinks,18
-1881,2020,6 - Top Tier,zoinks,0
-1882,2020,7 - Elite,zoinks,0
-1883,2021,1 - Very Low,zoinks,0
-1884,2021,2 - Low,zoinks,0
-1885,2021,3 - Moderate,zoinks,0
-1886,2021,4 - High,zoinks,0
-1887,2021,5 - Very High,zoinks,0
-1888,2021,6 - Top Tier,zoinks,0
-1889,2021,7 - Elite,zoinks,0
-1890,1969,1 - Very Low,scooby_doo_where_are_you,0
-1891,1969,2 - Low,scooby_doo_where_are_you,0
-1892,1969,3 - Moderate,scooby_doo_where_are_you,0
-1893,1969,4 - High,scooby_doo_where_are_you,1
-1894,1969,5 - Very High,scooby_doo_where_are_you,5
-1895,1969,6 - Top Tier,scooby_doo_where_are_you,0
-1896,1969,7 - Elite,scooby_doo_where_are_you,0
-1897,1970,1 - Very Low,scooby_doo_where_are_you,0
-1898,1970,2 - Low,scooby_doo_where_are_you,0
-1899,1970,3 - Moderate,scooby_doo_where_are_you,0
-1900,1970,4 - High,scooby_doo_where_are_you,0
-1901,1970,5 - Very High,scooby_doo_where_are_you,2
-1902,1970,6 - Top Tier,scooby_doo_where_are_you,0
-1903,1970,7 - Elite,scooby_doo_where_are_you,0
-1904,1972,1 - Very Low,scooby_doo_where_are_you,0
-1905,1972,2 - Low,scooby_doo_where_are_you,0
-1906,1972,3 - Moderate,scooby_doo_where_are_you,0
-1907,1972,4 - High,scooby_doo_where_are_you,5
-1908,1972,5 - Very High,scooby_doo_where_are_you,5
-1909,1972,6 - Top Tier,scooby_doo_where_are_you,0
-1910,1972,7 - Elite,scooby_doo_where_are_you,0
-1911,1973,1 - Very Low,scooby_doo_where_are_you,0
-1912,1973,2 - Low,scooby_doo_where_are_you,0
-1913,1973,3 - Moderate,scooby_doo_where_are_you,0
-1914,1973,4 - High,scooby_doo_where_are_you,0
-1915,1973,5 - Very High,scooby_doo_where_are_you,0
-1916,1973,6 - Top Tier,scooby_doo_where_are_you,0
-1917,1973,7 - Elite,scooby_doo_where_are_you,0
-1918,1976,1 - Very Low,scooby_doo_where_are_you,0
-1919,1976,2 - Low,scooby_doo_where_are_you,0
-1920,1976,3 - Moderate,scooby_doo_where_are_you,1
-1921,1976,4 - High,scooby_doo_where_are_you,0
-1922,1976,5 - Very High,scooby_doo_where_are_you,0
-1923,1976,6 - Top Tier,scooby_doo_where_are_you,0
-1924,1976,7 - Elite,scooby_doo_where_are_you,0
-1925,1977,1 - Very Low,scooby_doo_where_are_you,0
-1926,1977,2 - Low,scooby_doo_where_are_you,0
-1927,1977,3 - Moderate,scooby_doo_where_are_you,3
-1928,1977,4 - High,scooby_doo_where_are_you,0
-1929,1977,5 - Very High,scooby_doo_where_are_you,1
-1930,1977,6 - Top Tier,scooby_doo_where_are_you,0
-1931,1977,7 - Elite,scooby_doo_where_are_you,0
-1932,1978,1 - Very Low,scooby_doo_where_are_you,0
-1933,1978,2 - Low,scooby_doo_where_are_you,0
-1934,1978,3 - Moderate,scooby_doo_where_are_you,0
-1935,1978,4 - High,scooby_doo_where_are_you,6
-1936,1978,5 - Very High,scooby_doo_where_are_you,1
-1937,1978,6 - Top Tier,scooby_doo_where_are_you,0
-1938,1978,7 - Elite,scooby_doo_where_are_you,0
-1939,1979,1 - Very Low,scooby_doo_where_are_you,0
-1940,1979,2 - Low,scooby_doo_where_are_you,0
-1941,1979,3 - Moderate,scooby_doo_where_are_you,0
-1942,1979,4 - High,scooby_doo_where_are_you,0
-1943,1979,5 - Very High,scooby_doo_where_are_you,0
-1944,1979,6 - Top Tier,scooby_doo_where_are_you,0
-1945,1979,7 - Elite,scooby_doo_where_are_you,0
-1946,1980,1 - Very Low,scooby_doo_where_are_you,0
-1947,1980,2 - Low,scooby_doo_where_are_you,0
-1948,1980,3 - Moderate,scooby_doo_where_are_you,1
-1949,1980,4 - High,scooby_doo_where_are_you,0
-1950,1980,5 - Very High,scooby_doo_where_are_you,0
-1951,1980,6 - Top Tier,scooby_doo_where_are_you,0
-1952,1980,7 - Elite,scooby_doo_where_are_you,0
-1953,1981,1 - Very Low,scooby_doo_where_are_you,0
-1954,1981,2 - Low,scooby_doo_where_are_you,0
-1955,1981,3 - Moderate,scooby_doo_where_are_you,0
-1956,1981,4 - High,scooby_doo_where_are_you,0
-1957,1981,5 - Very High,scooby_doo_where_are_you,0
-1958,1981,6 - Top Tier,scooby_doo_where_are_you,0
-1959,1981,7 - Elite,scooby_doo_where_are_you,0
-1960,1982,1 - Very Low,scooby_doo_where_are_you,0
-1961,1982,2 - Low,scooby_doo_where_are_you,0
-1962,1982,3 - Moderate,scooby_doo_where_are_you,0
-1963,1982,4 - High,scooby_doo_where_are_you,0
-1964,1982,5 - Very High,scooby_doo_where_are_you,0
-1965,1982,6 - Top Tier,scooby_doo_where_are_you,0
-1966,1982,7 - Elite,scooby_doo_where_are_you,0
-1967,1983,1 - Very Low,scooby_doo_where_are_you,0
-1968,1983,2 - Low,scooby_doo_where_are_you,0
-1969,1983,3 - Moderate,scooby_doo_where_are_you,1
-1970,1983,4 - High,scooby_doo_where_are_you,4
-1971,1983,5 - Very High,scooby_doo_where_are_you,0
-1972,1983,6 - Top Tier,scooby_doo_where_are_you,0
-1973,1983,7 - Elite,scooby_doo_where_are_you,0
-1974,1984,1 - Very Low,scooby_doo_where_are_you,0
-1975,1984,2 - Low,scooby_doo_where_are_you,0
-1976,1984,3 - Moderate,scooby_doo_where_are_you,0
-1977,1984,4 - High,scooby_doo_where_are_you,3
-1978,1984,5 - Very High,scooby_doo_where_are_you,0
-1979,1984,6 - Top Tier,scooby_doo_where_are_you,0
-1980,1984,7 - Elite,scooby_doo_where_are_you,0
-1981,1985,1 - Very Low,scooby_doo_where_are_you,0
-1982,1985,2 - Low,scooby_doo_where_are_you,0
-1983,1985,3 - Moderate,scooby_doo_where_are_you,0
-1984,1985,4 - High,scooby_doo_where_are_you,2
-1985,1985,5 - Very High,scooby_doo_where_are_you,0
-1986,1985,6 - Top Tier,scooby_doo_where_are_you,0
-1987,1985,7 - Elite,scooby_doo_where_are_you,0
-1988,1987,1 - Very Low,scooby_doo_where_are_you,0
-1989,1987,2 - Low,scooby_doo_where_are_you,0
-1990,1987,3 - Moderate,scooby_doo_where_are_you,0
-1991,1987,4 - High,scooby_doo_where_are_you,1
-1992,1987,5 - Very High,scooby_doo_where_are_you,0
-1993,1987,6 - Top Tier,scooby_doo_where_are_you,0
-1994,1987,7 - Elite,scooby_doo_where_are_you,0
-1995,1988,1 - Very Low,scooby_doo_where_are_you,0
-1996,1988,2 - Low,scooby_doo_where_are_you,0
-1997,1988,3 - Moderate,scooby_doo_where_are_you,0
-1998,1988,4 - High,scooby_doo_where_are_you,4
-1999,1988,5 - Very High,scooby_doo_where_are_you,0
-2000,1988,6 - Top Tier,scooby_doo_where_are_you,0
-2001,1988,7 - Elite,scooby_doo_where_are_you,0
-2002,1989,1 - Very Low,scooby_doo_where_are_you,0
-2003,1989,2 - Low,scooby_doo_where_are_you,0
-2004,1989,3 - Moderate,scooby_doo_where_are_you,0
-2005,1989,4 - High,scooby_doo_where_are_you,7
-2006,1989,5 - Very High,scooby_doo_where_are_you,1
-2007,1989,6 - Top Tier,scooby_doo_where_are_you,0
-2008,1989,7 - Elite,scooby_doo_where_are_you,0
-2009,1990,1 - Very Low,scooby_doo_where_are_you,0
-2010,1990,2 - Low,scooby_doo_where_are_you,0
-2011,1990,3 - Moderate,scooby_doo_where_are_you,0
-2012,1990,4 - High,scooby_doo_where_are_you,3
-2013,1990,5 - Very High,scooby_doo_where_are_you,0
-2014,1990,6 - Top Tier,scooby_doo_where_are_you,0
-2015,1990,7 - Elite,scooby_doo_where_are_you,0
-2016,1991,1 - Very Low,scooby_doo_where_are_you,0
-2017,1991,2 - Low,scooby_doo_where_are_you,0
-2018,1991,3 - Moderate,scooby_doo_where_are_you,0
-2019,1991,4 - High,scooby_doo_where_are_you,0
-2020,1991,5 - Very High,scooby_doo_where_are_you,0
-2021,1991,6 - Top Tier,scooby_doo_where_are_you,0
-2022,1991,7 - Elite,scooby_doo_where_are_you,0
-2023,1994,1 - Very Low,scooby_doo_where_are_you,0
-2024,1994,2 - Low,scooby_doo_where_are_you,0
-2025,1994,3 - Moderate,scooby_doo_where_are_you,0
-2026,1994,4 - High,scooby_doo_where_are_you,0
-2027,1994,5 - Very High,scooby_doo_where_are_you,0
-2028,1994,6 - Top Tier,scooby_doo_where_are_you,0
-2029,1994,7 - Elite,scooby_doo_where_are_you,0
-2030,1997,1 - Very Low,scooby_doo_where_are_you,0
-2031,1997,2 - Low,scooby_doo_where_are_you,0
-2032,1997,3 - Moderate,scooby_doo_where_are_you,0
-2033,1997,4 - High,scooby_doo_where_are_you,0
-2034,1997,5 - Very High,scooby_doo_where_are_you,0
-2035,1997,6 - Top Tier,scooby_doo_where_are_you,0
-2036,1997,7 - Elite,scooby_doo_where_are_you,0
-2037,1998,1 - Very Low,scooby_doo_where_are_you,0
-2038,1998,2 - Low,scooby_doo_where_are_you,0
-2039,1998,3 - Moderate,scooby_doo_where_are_you,0
-2040,1998,4 - High,scooby_doo_where_are_you,0
-2041,1998,5 - Very High,scooby_doo_where_are_you,1
-2042,1998,6 - Top Tier,scooby_doo_where_are_you,0
-2043,1998,7 - Elite,scooby_doo_where_are_you,0
-2044,1999,1 - Very Low,scooby_doo_where_are_you,0
-2045,1999,2 - Low,scooby_doo_where_are_you,0
-2046,1999,3 - Moderate,scooby_doo_where_are_you,0
-2047,1999,4 - High,scooby_doo_where_are_you,1
-2048,1999,5 - Very High,scooby_doo_where_are_you,0
-2049,1999,6 - Top Tier,scooby_doo_where_are_you,0
-2050,1999,7 - Elite,scooby_doo_where_are_you,0
-2051,2000,1 - Very Low,scooby_doo_where_are_you,0
-2052,2000,2 - Low,scooby_doo_where_are_you,0
-2053,2000,3 - Moderate,scooby_doo_where_are_you,0
-2054,2000,4 - High,scooby_doo_where_are_you,0
-2055,2000,5 - Very High,scooby_doo_where_are_you,0
-2056,2000,6 - Top Tier,scooby_doo_where_are_you,0
-2057,2000,7 - Elite,scooby_doo_where_are_you,0
-2058,2001,1 - Very Low,scooby_doo_where_are_you,0
-2059,2001,2 - Low,scooby_doo_where_are_you,0
-2060,2001,3 - Moderate,scooby_doo_where_are_you,0
-2061,2001,4 - High,scooby_doo_where_are_you,0
-2062,2001,5 - Very High,scooby_doo_where_are_you,0
-2063,2001,6 - Top Tier,scooby_doo_where_are_you,0
-2064,2001,7 - Elite,scooby_doo_where_are_you,0
-2065,2002,1 - Very Low,scooby_doo_where_are_you,0
-2066,2002,2 - Low,scooby_doo_where_are_you,0
-2067,2002,3 - Moderate,scooby_doo_where_are_you,0
-2068,2002,4 - High,scooby_doo_where_are_you,1
-2069,2002,5 - Very High,scooby_doo_where_are_you,2
-2070,2002,6 - Top Tier,scooby_doo_where_are_you,0
-2071,2002,7 - Elite,scooby_doo_where_are_you,0
-2072,2003,1 - Very Low,scooby_doo_where_are_you,0
-2073,2003,2 - Low,scooby_doo_where_are_you,0
-2074,2003,3 - Moderate,scooby_doo_where_are_you,0
-2075,2003,4 - High,scooby_doo_where_are_you,2
-2076,2003,5 - Very High,scooby_doo_where_are_you,0
-2077,2003,6 - Top Tier,scooby_doo_where_are_you,0
-2078,2003,7 - Elite,scooby_doo_where_are_you,0
-2079,2004,1 - Very Low,scooby_doo_where_are_you,0
-2080,2004,2 - Low,scooby_doo_where_are_you,0
-2081,2004,3 - Moderate,scooby_doo_where_are_you,0
-2082,2004,4 - High,scooby_doo_where_are_you,0
-2083,2004,5 - Very High,scooby_doo_where_are_you,0
-2084,2004,6 - Top Tier,scooby_doo_where_are_you,0
-2085,2004,7 - Elite,scooby_doo_where_are_you,0
-2086,2005,1 - Very Low,scooby_doo_where_are_you,0
-2087,2005,2 - Low,scooby_doo_where_are_you,0
-2088,2005,3 - Moderate,scooby_doo_where_are_you,0
-2089,2005,4 - High,scooby_doo_where_are_you,1
-2090,2005,5 - Very High,scooby_doo_where_are_you,0
-2091,2005,6 - Top Tier,scooby_doo_where_are_you,0
-2092,2005,7 - Elite,scooby_doo_where_are_you,0
-2093,2006,1 - Very Low,scooby_doo_where_are_you,0
-2094,2006,2 - Low,scooby_doo_where_are_you,0
-2095,2006,3 - Moderate,scooby_doo_where_are_you,0
-2096,2006,4 - High,scooby_doo_where_are_you,0
-2097,2006,5 - Very High,scooby_doo_where_are_you,0
-2098,2006,6 - Top Tier,scooby_doo_where_are_you,0
-2099,2006,7 - Elite,scooby_doo_where_are_you,0
-2100,2007,1 - Very Low,scooby_doo_where_are_you,0
-2101,2007,2 - Low,scooby_doo_where_are_you,2
-2102,2007,3 - Moderate,scooby_doo_where_are_you,0
-2103,2007,4 - High,scooby_doo_where_are_you,0
-2104,2007,5 - Very High,scooby_doo_where_are_you,0
-2105,2007,6 - Top Tier,scooby_doo_where_are_you,0
-2106,2007,7 - Elite,scooby_doo_where_are_you,0
-2107,2008,1 - Very Low,scooby_doo_where_are_you,0
-2108,2008,2 - Low,scooby_doo_where_are_you,0
-2109,2008,3 - Moderate,scooby_doo_where_are_you,0
-2110,2008,4 - High,scooby_doo_where_are_you,0
-2111,2008,5 - Very High,scooby_doo_where_are_you,0
-2112,2008,6 - Top Tier,scooby_doo_where_are_you,0
-2113,2008,7 - Elite,scooby_doo_where_are_you,0
-2114,2009,1 - Very Low,scooby_doo_where_are_you,0
-2115,2009,2 - Low,scooby_doo_where_are_you,2
-2116,2009,3 - Moderate,scooby_doo_where_are_you,0
-2117,2009,4 - High,scooby_doo_where_are_you,0
-2118,2009,5 - Very High,scooby_doo_where_are_you,0
-2119,2009,6 - Top Tier,scooby_doo_where_are_you,0
-2120,2009,7 - Elite,scooby_doo_where_are_you,0
-2121,2010,1 - Very Low,scooby_doo_where_are_you,0
-2122,2010,2 - Low,scooby_doo_where_are_you,0
-2123,2010,3 - Moderate,scooby_doo_where_are_you,0
-2124,2010,4 - High,scooby_doo_where_are_you,0
-2125,2010,5 - Very High,scooby_doo_where_are_you,0
-2126,2010,6 - Top Tier,scooby_doo_where_are_you,0
-2127,2010,7 - Elite,scooby_doo_where_are_you,0
-2128,2011,1 - Very Low,scooby_doo_where_are_you,0
-2129,2011,2 - Low,scooby_doo_where_are_you,0
-2130,2011,3 - Moderate,scooby_doo_where_are_you,0
-2131,2011,4 - High,scooby_doo_where_are_you,0
-2132,2011,5 - Very High,scooby_doo_where_are_you,0
-2133,2011,6 - Top Tier,scooby_doo_where_are_you,0
-2134,2011,7 - Elite,scooby_doo_where_are_you,0
-2135,2012,1 - Very Low,scooby_doo_where_are_you,0
-2136,2012,2 - Low,scooby_doo_where_are_you,0
-2137,2012,3 - Moderate,scooby_doo_where_are_you,0
-2138,2012,4 - High,scooby_doo_where_are_you,1
-2139,2012,5 - Very High,scooby_doo_where_are_you,0
-2140,2012,6 - Top Tier,scooby_doo_where_are_you,0
-2141,2012,7 - Elite,scooby_doo_where_are_you,0
-2142,2013,1 - Very Low,scooby_doo_where_are_you,0
-2143,2013,2 - Low,scooby_doo_where_are_you,0
-2144,2013,3 - Moderate,scooby_doo_where_are_you,0
-2145,2013,4 - High,scooby_doo_where_are_you,0
-2146,2013,5 - Very High,scooby_doo_where_are_you,0
-2147,2013,6 - Top Tier,scooby_doo_where_are_you,1
-2148,2013,7 - Elite,scooby_doo_where_are_you,0
-2149,2014,1 - Very Low,scooby_doo_where_are_you,0
-2150,2014,2 - Low,scooby_doo_where_are_you,0
-2151,2014,3 - Moderate,scooby_doo_where_are_you,1
-2152,2014,4 - High,scooby_doo_where_are_you,0
-2153,2014,5 - Very High,scooby_doo_where_are_you,0
-2154,2014,6 - Top Tier,scooby_doo_where_are_you,0
-2155,2014,7 - Elite,scooby_doo_where_are_you,0
-2156,2015,1 - Very Low,scooby_doo_where_are_you,0
-2157,2015,2 - Low,scooby_doo_where_are_you,0
-2158,2015,3 - Moderate,scooby_doo_where_are_you,0
-2159,2015,4 - High,scooby_doo_where_are_you,1
-2160,2015,5 - Very High,scooby_doo_where_are_you,0
-2161,2015,6 - Top Tier,scooby_doo_where_are_you,0
-2162,2015,7 - Elite,scooby_doo_where_are_you,0
-2163,2016,1 - Very Low,scooby_doo_where_are_you,0
-2164,2016,2 - Low,scooby_doo_where_are_you,1
-2165,2016,3 - Moderate,scooby_doo_where_are_you,0
-2166,2016,4 - High,scooby_doo_where_are_you,0
-2167,2016,5 - Very High,scooby_doo_where_are_you,0
-2168,2016,6 - Top Tier,scooby_doo_where_are_you,0
-2169,2016,7 - Elite,scooby_doo_where_are_you,0
-2170,2017,1 - Very Low,scooby_doo_where_are_you,0
-2171,2017,2 - Low,scooby_doo_where_are_you,1
-2172,2017,3 - Moderate,scooby_doo_where_are_you,0
-2173,2017,4 - High,scooby_doo_where_are_you,0
-2174,2017,5 - Very High,scooby_doo_where_are_you,0
-2175,2017,6 - Top Tier,scooby_doo_where_are_you,0
-2176,2017,7 - Elite,scooby_doo_where_are_you,0
-2177,2018,1 - Very Low,scooby_doo_where_are_you,0
-2178,2018,2 - Low,scooby_doo_where_are_you,0
-2179,2018,3 - Moderate,scooby_doo_where_are_you,0
-2180,2018,4 - High,scooby_doo_where_are_you,1
-2181,2018,5 - Very High,scooby_doo_where_are_you,0
-2182,2018,6 - Top Tier,scooby_doo_where_are_you,0
-2183,2018,7 - Elite,scooby_doo_where_are_you,0
-2184,2019,1 - Very Low,scooby_doo_where_are_you,0
-2185,2019,2 - Low,scooby_doo_where_are_you,0
-2186,2019,3 - Moderate,scooby_doo_where_are_you,0
-2187,2019,4 - High,scooby_doo_where_are_you,0
-2188,2019,5 - Very High,scooby_doo_where_are_you,0
-2189,2019,6 - Top Tier,scooby_doo_where_are_you,0
-2190,2019,7 - Elite,scooby_doo_where_are_you,0
-2191,2020,1 - Very Low,scooby_doo_where_are_you,0
-2192,2020,2 - Low,scooby_doo_where_are_you,0
-2193,2020,3 - Moderate,scooby_doo_where_are_you,0
-2194,2020,4 - High,scooby_doo_where_are_you,0
-2195,2020,5 - Very High,scooby_doo_where_are_you,0
-2196,2020,6 - Top Tier,scooby_doo_where_are_you,0
-2197,2020,7 - Elite,scooby_doo_where_are_you,0
-2198,2021,1 - Very Low,scooby_doo_where_are_you,0
-2199,2021,2 - Low,scooby_doo_where_are_you,0
-2200,2021,3 - Moderate,scooby_doo_where_are_you,0
-2201,2021,4 - High,scooby_doo_where_are_you,0
-2202,2021,5 - Very High,scooby_doo_where_are_you,0
-2203,2021,6 - Top Tier,scooby_doo_where_are_you,0
-2204,2021,7 - Elite,scooby_doo_where_are_you,0
-2205,1969,1 - Very Low,rooby_rooby_roo,0
-2206,1969,2 - Low,rooby_rooby_roo,0
-2207,1969,3 - Moderate,rooby_rooby_roo,0
-2208,1969,4 - High,rooby_rooby_roo,1
-2209,1969,5 - Very High,rooby_rooby_roo,8
-2210,1969,6 - Top Tier,rooby_rooby_roo,0
-2211,1969,7 - Elite,rooby_rooby_roo,0
-2212,1970,1 - Very Low,rooby_rooby_roo,0
-2213,1970,2 - Low,rooby_rooby_roo,0
-2214,1970,3 - Moderate,rooby_rooby_roo,0
-2215,1970,4 - High,rooby_rooby_roo,0
-2216,1970,5 - Very High,rooby_rooby_roo,0
-2217,1970,6 - Top Tier,rooby_rooby_roo,0
-2218,1970,7 - Elite,rooby_rooby_roo,0
-2219,1972,1 - Very Low,rooby_rooby_roo,0
-2220,1972,2 - Low,rooby_rooby_roo,0
-2221,1972,3 - Moderate,rooby_rooby_roo,0
-2222,1972,4 - High,rooby_rooby_roo,6
-2223,1972,5 - Very High,rooby_rooby_roo,3
-2224,1972,6 - Top Tier,rooby_rooby_roo,0
-2225,1972,7 - Elite,rooby_rooby_roo,0
-2226,1973,1 - Very Low,rooby_rooby_roo,0
-2227,1973,2 - Low,rooby_rooby_roo,0
-2228,1973,3 - Moderate,rooby_rooby_roo,0
-2229,1973,4 - High,rooby_rooby_roo,3
-2230,1973,5 - Very High,rooby_rooby_roo,0
-2231,1973,6 - Top Tier,rooby_rooby_roo,0
-2232,1973,7 - Elite,rooby_rooby_roo,0
-2233,1976,1 - Very Low,rooby_rooby_roo,0
-2234,1976,2 - Low,rooby_rooby_roo,0
-2235,1976,3 - Moderate,rooby_rooby_roo,3
-2236,1976,4 - High,rooby_rooby_roo,8
-2237,1976,5 - Very High,rooby_rooby_roo,5
-2238,1976,6 - Top Tier,rooby_rooby_roo,0
-2239,1976,7 - Elite,rooby_rooby_roo,0
-2240,1977,1 - Very Low,rooby_rooby_roo,0
-2241,1977,2 - Low,rooby_rooby_roo,0
-2242,1977,3 - Moderate,rooby_rooby_roo,4
-2243,1977,4 - High,rooby_rooby_roo,12
-2244,1977,5 - Very High,rooby_rooby_roo,2
-2245,1977,6 - Top Tier,rooby_rooby_roo,0
-2246,1977,7 - Elite,rooby_rooby_roo,0
-2247,1978,1 - Very Low,rooby_rooby_roo,0
-2248,1978,2 - Low,rooby_rooby_roo,0
-2249,1978,3 - Moderate,rooby_rooby_roo,1
-2250,1978,4 - High,rooby_rooby_roo,14
-2251,1978,5 - Very High,rooby_rooby_roo,1
-2252,1978,6 - Top Tier,rooby_rooby_roo,0
-2253,1978,7 - Elite,rooby_rooby_roo,0
-2254,1979,1 - Very Low,rooby_rooby_roo,0
-2255,1979,2 - Low,rooby_rooby_roo,0
-2256,1979,3 - Moderate,rooby_rooby_roo,1
-2257,1979,4 - High,rooby_rooby_roo,11
-2258,1979,5 - Very High,rooby_rooby_roo,1
-2259,1979,6 - Top Tier,rooby_rooby_roo,0
-2260,1979,7 - Elite,rooby_rooby_roo,0
-2261,1980,1 - Very Low,rooby_rooby_roo,0
-2262,1980,2 - Low,rooby_rooby_roo,0
-2263,1980,3 - Moderate,rooby_rooby_roo,5
-2264,1980,4 - High,rooby_rooby_roo,14
-2265,1980,5 - Very High,rooby_rooby_roo,0
-2266,1980,6 - Top Tier,rooby_rooby_roo,0
-2267,1980,7 - Elite,rooby_rooby_roo,0
-2268,1981,1 - Very Low,rooby_rooby_roo,0
-2269,1981,2 - Low,rooby_rooby_roo,0
-2270,1981,3 - Moderate,rooby_rooby_roo,2
-2271,1981,4 - High,rooby_rooby_roo,28
-2272,1981,5 - Very High,rooby_rooby_roo,0
-2273,1981,6 - Top Tier,rooby_rooby_roo,0
-2274,1981,7 - Elite,rooby_rooby_roo,0
-2275,1982,1 - Very Low,rooby_rooby_roo,0
-2276,1982,2 - Low,rooby_rooby_roo,0
-2277,1982,3 - Moderate,rooby_rooby_roo,1
-2278,1982,4 - High,rooby_rooby_roo,13
-2279,1982,5 - Very High,rooby_rooby_roo,0
-2280,1982,6 - Top Tier,rooby_rooby_roo,0
-2281,1982,7 - Elite,rooby_rooby_roo,0
-2282,1983,1 - Very Low,rooby_rooby_roo,0
-2283,1983,2 - Low,rooby_rooby_roo,0
-2284,1983,3 - Moderate,rooby_rooby_roo,3
-2285,1983,4 - High,rooby_rooby_roo,13
-2286,1983,5 - Very High,rooby_rooby_roo,0
-2287,1983,6 - Top Tier,rooby_rooby_roo,0
-2288,1983,7 - Elite,rooby_rooby_roo,0
-2289,1984,1 - Very Low,rooby_rooby_roo,0
-2290,1984,2 - Low,rooby_rooby_roo,0
-2291,1984,3 - Moderate,rooby_rooby_roo,0
-2292,1984,4 - High,rooby_rooby_roo,13
-2293,1984,5 - Very High,rooby_rooby_roo,0
-2294,1984,6 - Top Tier,rooby_rooby_roo,0
-2295,1984,7 - Elite,rooby_rooby_roo,0
-2296,1985,1 - Very Low,rooby_rooby_roo,0
-2297,1985,2 - Low,rooby_rooby_roo,0
-2298,1985,3 - Moderate,rooby_rooby_roo,0
-2299,1985,4 - High,rooby_rooby_roo,9
-2300,1985,5 - Very High,rooby_rooby_roo,1
-2301,1985,6 - Top Tier,rooby_rooby_roo,0
-2302,1985,7 - Elite,rooby_rooby_roo,0
-2303,1987,1 - Very Low,rooby_rooby_roo,0
-2304,1987,2 - Low,rooby_rooby_roo,0
-2305,1987,3 - Moderate,rooby_rooby_roo,0
-2306,1987,4 - High,rooby_rooby_roo,0
-2307,1987,5 - Very High,rooby_rooby_roo,0
-2308,1987,6 - Top Tier,rooby_rooby_roo,0
-2309,1987,7 - Elite,rooby_rooby_roo,0
-2310,1988,1 - Very Low,rooby_rooby_roo,0
-2311,1988,2 - Low,rooby_rooby_roo,0
-2312,1988,3 - Moderate,rooby_rooby_roo,0
-2313,1988,4 - High,rooby_rooby_roo,12
-2314,1988,5 - Very High,rooby_rooby_roo,2
-2315,1988,6 - Top Tier,rooby_rooby_roo,0
-2316,1988,7 - Elite,rooby_rooby_roo,0
-2317,1989,1 - Very Low,rooby_rooby_roo,0
-2318,1989,2 - Low,rooby_rooby_roo,0
-2319,1989,3 - Moderate,rooby_rooby_roo,0
-2320,1989,4 - High,rooby_rooby_roo,6
-2321,1989,5 - Very High,rooby_rooby_roo,2
-2322,1989,6 - Top Tier,rooby_rooby_roo,0
-2323,1989,7 - Elite,rooby_rooby_roo,0
-2324,1990,1 - Very Low,rooby_rooby_roo,0
-2325,1990,2 - Low,rooby_rooby_roo,0
-2326,1990,3 - Moderate,rooby_rooby_roo,0
-2327,1990,4 - High,rooby_rooby_roo,3
-2328,1990,5 - Very High,rooby_rooby_roo,0
-2329,1990,6 - Top Tier,rooby_rooby_roo,0
-2330,1990,7 - Elite,rooby_rooby_roo,0
-2331,1991,1 - Very Low,rooby_rooby_roo,0
-2332,1991,2 - Low,rooby_rooby_roo,0
-2333,1991,3 - Moderate,rooby_rooby_roo,3
-2334,1991,4 - High,rooby_rooby_roo,2
-2335,1991,5 - Very High,rooby_rooby_roo,0
-2336,1991,6 - Top Tier,rooby_rooby_roo,0
-2337,1991,7 - Elite,rooby_rooby_roo,0
-2338,1994,1 - Very Low,rooby_rooby_roo,0
-2339,1994,2 - Low,rooby_rooby_roo,1
-2340,1994,3 - Moderate,rooby_rooby_roo,0
-2341,1994,4 - High,rooby_rooby_roo,0
-2342,1994,5 - Very High,rooby_rooby_roo,0
-2343,1994,6 - Top Tier,rooby_rooby_roo,0
-2344,1994,7 - Elite,rooby_rooby_roo,0
-2345,1997,1 - Very Low,rooby_rooby_roo,0
-2346,1997,2 - Low,rooby_rooby_roo,0
-2347,1997,3 - Moderate,rooby_rooby_roo,0
-2348,1997,4 - High,rooby_rooby_roo,0
-2349,1997,5 - Very High,rooby_rooby_roo,1
-2350,1997,6 - Top Tier,rooby_rooby_roo,0
-2351,1997,7 - Elite,rooby_rooby_roo,0
-2352,1998,1 - Very Low,rooby_rooby_roo,0
-2353,1998,2 - Low,rooby_rooby_roo,0
-2354,1998,3 - Moderate,rooby_rooby_roo,0
-2355,1998,4 - High,rooby_rooby_roo,0
-2356,1998,5 - Very High,rooby_rooby_roo,0
-2357,1998,6 - Top Tier,rooby_rooby_roo,0
-2358,1998,7 - Elite,rooby_rooby_roo,0
-2359,1999,1 - Very Low,rooby_rooby_roo,0
-2360,1999,2 - Low,rooby_rooby_roo,0
-2361,1999,3 - Moderate,rooby_rooby_roo,0
-2362,1999,4 - High,rooby_rooby_roo,2
-2363,1999,5 - Very High,rooby_rooby_roo,0
-2364,1999,6 - Top Tier,rooby_rooby_roo,0
-2365,1999,7 - Elite,rooby_rooby_roo,0
-2366,2000,1 - Very Low,rooby_rooby_roo,0
-2367,2000,2 - Low,rooby_rooby_roo,0
-2368,2000,3 - Moderate,rooby_rooby_roo,0
-2369,2000,4 - High,rooby_rooby_roo,2
-2370,2000,5 - Very High,rooby_rooby_roo,0
-2371,2000,6 - Top Tier,rooby_rooby_roo,0
-2372,2000,7 - Elite,rooby_rooby_roo,0
-2373,2001,1 - Very Low,rooby_rooby_roo,0
-2374,2001,2 - Low,rooby_rooby_roo,0
-2375,2001,3 - Moderate,rooby_rooby_roo,0
-2376,2001,4 - High,rooby_rooby_roo,4
-2377,2001,5 - Very High,rooby_rooby_roo,0
-2378,2001,6 - Top Tier,rooby_rooby_roo,0
-2379,2001,7 - Elite,rooby_rooby_roo,0
-2380,2002,1 - Very Low,rooby_rooby_roo,0
-2381,2002,2 - Low,rooby_rooby_roo,0
-2382,2002,3 - Moderate,rooby_rooby_roo,0
-2383,2002,4 - High,rooby_rooby_roo,10
-2384,2002,5 - Very High,rooby_rooby_roo,3
-2385,2002,6 - Top Tier,rooby_rooby_roo,0
-2386,2002,7 - Elite,rooby_rooby_roo,0
-2387,2003,1 - Very Low,rooby_rooby_roo,0
-2388,2003,2 - Low,rooby_rooby_roo,0
-2389,2003,3 - Moderate,rooby_rooby_roo,2
-2390,2003,4 - High,rooby_rooby_roo,9
-2391,2003,5 - Very High,rooby_rooby_roo,0
-2392,2003,6 - Top Tier,rooby_rooby_roo,0
-2393,2003,7 - Elite,rooby_rooby_roo,0
-2394,2004,1 - Very Low,rooby_rooby_roo,0
-2395,2004,2 - Low,rooby_rooby_roo,0
-2396,2004,3 - Moderate,rooby_rooby_roo,1
-2397,2004,4 - High,rooby_rooby_roo,8
-2398,2004,5 - Very High,rooby_rooby_roo,0
-2399,2004,6 - Top Tier,rooby_rooby_roo,0
-2400,2004,7 - Elite,rooby_rooby_roo,0
-2401,2005,1 - Very Low,rooby_rooby_roo,0
-2402,2005,2 - Low,rooby_rooby_roo,0
-2403,2005,3 - Moderate,rooby_rooby_roo,7
-2404,2005,4 - High,rooby_rooby_roo,11
-2405,2005,5 - Very High,rooby_rooby_roo,1
-2406,2005,6 - Top Tier,rooby_rooby_roo,0
-2407,2005,7 - Elite,rooby_rooby_roo,0
-2408,2006,1 - Very Low,rooby_rooby_roo,1
-2409,2006,2 - Low,rooby_rooby_roo,4
-2410,2006,3 - Moderate,rooby_rooby_roo,3
-2411,2006,4 - High,rooby_rooby_roo,1
-2412,2006,5 - Very High,rooby_rooby_roo,0
-2413,2006,6 - Top Tier,rooby_rooby_roo,0
-2414,2006,7 - Elite,rooby_rooby_roo,0
-2415,2007,1 - Very Low,rooby_rooby_roo,2
-2416,2007,2 - Low,rooby_rooby_roo,12
-2417,2007,3 - Moderate,rooby_rooby_roo,9
-2418,2007,4 - High,rooby_rooby_roo,0
-2419,2007,5 - Very High,rooby_rooby_roo,0
-2420,2007,6 - Top Tier,rooby_rooby_roo,0
-2421,2007,7 - Elite,rooby_rooby_roo,0
-2422,2008,1 - Very Low,rooby_rooby_roo,3
-2423,2008,2 - Low,rooby_rooby_roo,2
-2424,2008,3 - Moderate,rooby_rooby_roo,8
-2425,2008,4 - High,rooby_rooby_roo,0
-2426,2008,5 - Very High,rooby_rooby_roo,0
-2427,2008,6 - Top Tier,rooby_rooby_roo,0
-2428,2008,7 - Elite,rooby_rooby_roo,0
-2429,2009,1 - Very Low,rooby_rooby_roo,0
-2430,2009,2 - Low,rooby_rooby_roo,1
-2431,2009,3 - Moderate,rooby_rooby_roo,3
-2432,2009,4 - High,rooby_rooby_roo,0
-2433,2009,5 - Very High,rooby_rooby_roo,0
-2434,2009,6 - Top Tier,rooby_rooby_roo,0
-2435,2009,7 - Elite,rooby_rooby_roo,0
-2436,2010,1 - Very Low,rooby_rooby_roo,0
-2437,2010,2 - Low,rooby_rooby_roo,0
-2438,2010,3 - Moderate,rooby_rooby_roo,0
-2439,2010,4 - High,rooby_rooby_roo,5
-2440,2010,5 - Very High,rooby_rooby_roo,4
-2441,2010,6 - Top Tier,rooby_rooby_roo,0
-2442,2010,7 - Elite,rooby_rooby_roo,0
-2443,2011,1 - Very Low,rooby_rooby_roo,1
-2444,2011,2 - Low,rooby_rooby_roo,0
-2445,2011,3 - Moderate,rooby_rooby_roo,2
-2446,2011,4 - High,rooby_rooby_roo,0
-2447,2011,5 - Very High,rooby_rooby_roo,0
-2448,2011,6 - Top Tier,rooby_rooby_roo,2
-2449,2011,7 - Elite,rooby_rooby_roo,0
-2450,2012,1 - Very Low,rooby_rooby_roo,0
-2451,2012,2 - Low,rooby_rooby_roo,0
-2452,2012,3 - Moderate,rooby_rooby_roo,0
-2453,2012,4 - High,rooby_rooby_roo,3
-2454,2012,5 - Very High,rooby_rooby_roo,2
-2455,2012,6 - Top Tier,rooby_rooby_roo,1
-2456,2012,7 - Elite,rooby_rooby_roo,0
-2457,2013,1 - Very Low,rooby_rooby_roo,0
-2458,2013,2 - Low,rooby_rooby_roo,4
-2459,2013,3 - Moderate,rooby_rooby_roo,2
-2460,2013,4 - High,rooby_rooby_roo,3
-2461,2013,5 - Very High,rooby_rooby_roo,1
-2462,2013,6 - Top Tier,rooby_rooby_roo,2
-2463,2013,7 - Elite,rooby_rooby_roo,0
-2464,2014,1 - Very Low,rooby_rooby_roo,0
-2465,2014,2 - Low,rooby_rooby_roo,0
-2466,2014,3 - Moderate,rooby_rooby_roo,5
-2467,2014,4 - High,rooby_rooby_roo,0
-2468,2014,5 - Very High,rooby_rooby_roo,0
-2469,2014,6 - Top Tier,rooby_rooby_roo,0
-2470,2014,7 - Elite,rooby_rooby_roo,0
-2471,2015,1 - Very Low,rooby_rooby_roo,0
-2472,2015,2 - Low,rooby_rooby_roo,0
-2473,2015,3 - Moderate,rooby_rooby_roo,3
-2474,2015,4 - High,rooby_rooby_roo,4
-2475,2015,5 - Very High,rooby_rooby_roo,0
-2476,2015,6 - Top Tier,rooby_rooby_roo,0
-2477,2015,7 - Elite,rooby_rooby_roo,0
-2478,2016,1 - Very Low,rooby_rooby_roo,0
-2479,2016,2 - Low,rooby_rooby_roo,1
-2480,2016,3 - Moderate,rooby_rooby_roo,1
-2481,2016,4 - High,rooby_rooby_roo,0
-2482,2016,5 - Very High,rooby_rooby_roo,1
-2483,2016,6 - Top Tier,rooby_rooby_roo,0
-2484,2016,7 - Elite,rooby_rooby_roo,0
-2485,2017,1 - Very Low,rooby_rooby_roo,0
-2486,2017,2 - Low,rooby_rooby_roo,1
-2487,2017,3 - Moderate,rooby_rooby_roo,4
-2488,2017,4 - High,rooby_rooby_roo,1
-2489,2017,5 - Very High,rooby_rooby_roo,1
-2490,2017,6 - Top Tier,rooby_rooby_roo,0
-2491,2017,7 - Elite,rooby_rooby_roo,0
-2492,2018,1 - Very Low,rooby_rooby_roo,0
-2493,2018,2 - Low,rooby_rooby_roo,0
-2494,2018,3 - Moderate,rooby_rooby_roo,1
-2495,2018,4 - High,rooby_rooby_roo,1
-2496,2018,5 - Very High,rooby_rooby_roo,0
-2497,2018,6 - Top Tier,rooby_rooby_roo,0
-2498,2018,7 - Elite,rooby_rooby_roo,0
-2499,2019,1 - Very Low,rooby_rooby_roo,0
-2500,2019,2 - Low,rooby_rooby_roo,1
-2501,2019,3 - Moderate,rooby_rooby_roo,2
-2502,2019,4 - High,rooby_rooby_roo,4
-2503,2019,5 - Very High,rooby_rooby_roo,3
-2504,2019,6 - Top Tier,rooby_rooby_roo,1
-2505,2019,7 - Elite,rooby_rooby_roo,0
-2506,2020,1 - Very Low,rooby_rooby_roo,0
-2507,2020,2 - Low,rooby_rooby_roo,0
-2508,2020,3 - Moderate,rooby_rooby_roo,2
-2509,2020,4 - High,rooby_rooby_roo,2
-2510,2020,5 - Very High,rooby_rooby_roo,5
-2511,2020,6 - Top Tier,rooby_rooby_roo,0
-2512,2020,7 - Elite,rooby_rooby_roo,0
-2513,2021,1 - Very Low,rooby_rooby_roo,0
-2514,2021,2 - Low,rooby_rooby_roo,0
-2515,2021,3 - Moderate,rooby_rooby_roo,0
-2516,2021,4 - High,rooby_rooby_roo,0
-2517,2021,5 - Very High,rooby_rooby_roo,0
-2518,2021,6 - Top Tier,rooby_rooby_roo,0
-2519,2021,7 - Elite,rooby_rooby_roo,0
+,index,year,rank,jeepers,jinkies,my_glasses,just_about_wrapped_up,groovy,zoinks,scooby_doo_where_are_you,rooby_rooby_roo,decade
+0,1,1969,5 - Very High,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,60s
+1,2,1969,5 - Very High,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,60s
+2,3,1969,5 - Very High,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,60s
+3,4,1969,5 - Very High,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,60s
+4,5,1969,5 - Very High,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,60s
+5,6,1969,6 - Top Tier,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,60s
+6,7,1969,5 - Very High,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,60s
+7,8,1969,5 - Very High,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,60s
+8,9,1969,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,60s
+9,10,1969,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,60s
+10,11,1969,6 - Top Tier,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,60s
+11,12,1969,5 - Very High,0.0,0.0,0.0,0.0,1.0,6.0,0.0,3.0,60s
+12,13,1969,6 - Top Tier,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,60s
+13,14,1969,5 - Very High,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,60s
+14,15,1969,6 - Top Tier,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,60s
+15,16,1970,6 - Top Tier,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,60s
+16,17,1970,5 - Very High,0.0,0.0,1.0,0.0,0.0,4.0,0.0,0.0,60s
+17,18,1970,6 - Top Tier,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,60s
+18,19,1970,5 - Very High,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,60s
+19,20,1970,5 - Very High,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,60s
+20,21,1970,6 - Top Tier,0.0,0.0,1.0,0.0,0.0,7.0,0.0,0.0,60s
+21,22,1970,6 - Top Tier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60s
+22,23,1970,5 - Very High,0.0,0.0,0.0,0.0,0.0,6.0,1.0,0.0,60s
+23,24,1970,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60s
+24,25,1970,5 - Very High,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,60s
+25,26,1972,4 - High,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,70s
+26,27,1972,5 - Very High,0.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,70s
+27,28,1972,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70s
+28,29,1972,5 - Very High,1.0,1.0,0.0,0.0,0.0,9.0,0.0,0.0,70s
+29,30,1972,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70s
+30,31,1972,5 - Very High,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,70s
+31,32,1972,5 - Very High,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,70s
+32,33,1972,6 - Top Tier,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,70s
+33,34,1972,5 - Very High,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,70s
+34,35,1972,6 - Top Tier,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,70s
+35,36,1972,5 - Very High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,70s
+36,37,1972,4 - High,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,70s
+37,38,1972,5 - Very High,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,70s
+38,39,1972,5 - Very High,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,70s
+39,40,1972,4 - High,1.0,1.0,0.0,0.0,0.0,5.0,1.0,1.0,70s
+40,41,1972,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70s
+41,42,1973,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70s
+42,43,1973,5 - Very High,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,70s
+43,44,1973,5 - Very High,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,70s
+44,45,1973,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70s
+45,46,1973,5 - Very High,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,70s
+46,47,1973,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,70s
+47,48,1973,5 - Very High,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,70s
+48,49,1973,5 - Very High,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,70s
+49,50,1976,5 - Very High,0.0,2.0,0.0,0.0,0.0,6.0,0.0,0.0,70s
+50,51,1976,4 - High,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,70s
+51,52,1976,4 - High,0.0,0.0,0.0,0.0,0.0,8.0,0.0,1.0,70s
+52,53,1976,4 - High,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,70s
+53,54,1976,5 - Very High,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,70s
+54,55,1976,5 - Very High,0.0,0.0,0.0,0.0,0.0,5.0,0.0,4.0,70s
+55,56,1976,5 - Very High,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,70s
+56,57,1976,5 - Very High,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,70s
+57,58,1976,5 - Very High,4.0,0.0,0.0,0.0,0.0,13.0,0.0,1.0,70s
+58,59,1976,5 - Very High,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,70s
+59,60,1976,4 - High,2.0,1.0,0.0,0.0,0.0,9.0,0.0,0.0,70s
+60,61,1976,4 - High,5.0,1.0,0.0,1.0,0.0,12.0,0.0,1.0,70s
+61,62,1976,3 - Moderate,0.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,70s
+62,63,1976,4 - High,0.0,3.0,1.0,1.0,0.0,4.0,1.0,1.0,70s
+63,64,1976,4 - High,0.0,1.0,0.0,0.0,0.0,7.0,0.0,2.0,70s
+64,65,1976,4 - High,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,70s
+65,66,1976,4 - High,1.0,0.0,0.0,0.0,0.0,8.0,0.0,2.0,70s
+66,67,1976,5 - Very High,0.0,0.0,0.0,0.0,0.0,5.0,0.0,2.0,70s
+67,68,1976,5 - Very High,0.0,1.0,0.0,0.0,0.0,3.0,0.0,1.0,70s
+68,69,1977,4 - High,3.0,0.0,0.0,0.0,0.0,8.0,0.0,1.0,70s
+69,70,1977,4 - High,,,,,,,,4.0,70s
+70,71,1977,4 - High,,,,,0.0,1.0,0.0,2.0,70s
+71,72,1977,5 - Very High,0.0,1.0,0.0,0.0,0.0,11.0,1.0,0.0,70s
+72,73,1977,3 - Moderate,,,,,,,,0.0,70s
+73,74,1977,3 - Moderate,,,,,0.0,0.0,1.0,0.0,70s
+74,75,1977,4 - High,3.0,0.0,0.0,0.0,0.0,10.0,0.0,1.0,70s
+75,76,1977,4 - High,,,,,,,,,70s
+76,77,1977,4 - High,,,,,0.0,0.0,0.0,1.0,70s
+77,78,1977,5 - Very High,0.0,2.0,0.0,1.0,0.0,10.0,0.0,1.0,70s
+78,79,1977,4 - High,,,,,,,,,70s
+79,80,1977,4 - High,,,,,0.0,0.0,0.0,0.0,70s
+80,81,1977,4 - High,7.0,0.0,0.0,0.0,0.0,10.0,0.0,1.0,70s
+81,82,1977,4 - High,,,,,,,,,70s
+82,83,1977,4 - High,,,,,,,,,70s
+83,84,1977,5 - Very High,1.0,0.0,0.0,1.0,0.0,9.0,0.0,1.0,70s
+84,85,1977,4 - High,,,,,0.0,0.0,0.0,0.0,70s
+85,86,1977,4 - High,,,,,,,,,70s
+86,87,1977,5 - Very High,7.0,0.0,0.0,0.0,0.0,8.0,0.0,1.0,70s
+87,88,1977,3 - Moderate,,,,,0.0,0.0,1.0,,70s
+88,89,1977,3 - Moderate,,,,,,,,,70s
+89,90,1977,4 - High,0.0,2.0,0.0,0.0,0.0,10.0,0.0,1.0,70s
+90,91,1977,3 - Moderate,,,,,,,,,70s
+91,92,1977,3 - Moderate,,,,,0.0,0.0,0.0,0.0,70s
+92,93,1977,3 - Moderate,,,,,,,,,70s
+93,94,1977,3 - Moderate,,,,,,,,0.0,70s
+94,95,1977,4 - High,,,,,0.0,1.0,1.0,,70s
+95,96,1977,4 - High,,,,,,,,1.0,70s
+96,97,1977,3 - Moderate,,,,,,,,1.0,70s
+97,98,1977,3 - Moderate,,,,,0.0,0.0,0.0,,70s
+98,99,1977,3 - Moderate,,,,,0.0,0.0,0.0,1.0,70s
+99,100,1977,3 - Moderate,,,,,,,,,70s
+100,101,1977,4 - High,,,,,0.0,0.0,0.0,0.0,70s
+101,102,1977,4 - High,,,,,,,,0.0,70s
+102,103,1977,4 - High,,,,,,,,,70s
+103,104,1977,4 - High,,,,,0.0,0.0,0.0,0.0,70s
+104,105,1977,4 - High,,,,,,,,,70s
+105,106,1977,4 - High,,,,,0.0,0.0,0.0,1.0,70s
+106,107,1977,4 - High,,,,,0.0,0.0,0.0,0.0,70s
+107,108,1977,4 - High,,,,,,,,,70s
+108,109,1978,5 - Very High,4.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,70s
+109,110,1978,4 - High,,,,,,,,,70s
+110,111,1978,4 - High,,,,,0.0,0.0,0.0,0.0,70s
+111,112,1978,4 - High,2.0,1.0,0.0,0.0,0.0,9.0,0.0,1.0,70s
+112,113,1978,4 - High,,,,,,,,,70s
+113,114,1978,4 - High,,,,,,,,,70s
+114,115,1978,4 - High,6.0,0.0,0.0,1.0,0.0,8.0,1.0,1.0,70s
+115,116,1978,3 - Moderate,,,,,,,,,70s
+116,117,1978,3 - Moderate,,,,,,,,,70s
+117,118,1978,5 - Very High,3.0,0.0,0.0,0.0,0.0,7.0,0.0,1.0,70s
+118,119,1978,3 - Moderate,,,,,0.0,1.0,0.0,0.0,70s
+119,120,1978,3 - Moderate,,,,,,,,0.0,70s
+120,121,1978,5 - Very High,7.0,2.0,0.0,0.0,0.0,9.0,2.0,1.0,70s
+121,122,1978,3 - Moderate,,,,,,,,,70s
+122,123,1978,3 - Moderate,,,,,,,,,70s
+123,124,1978,5 - Very High,4.0,1.0,0.0,0.0,0.0,7.0,0.0,1.0,70s
+124,125,1978,3 - Moderate,,,,,,,,,70s
+125,126,1978,3 - Moderate,,,,,,,,,70s
+126,127,1978,5 - Very High,6.0,2.0,0.0,0.0,0.0,9.0,1.0,1.0,70s
+127,128,1978,3 - Moderate,,,,,0.0,0.0,0.0,0.0,70s
+128,129,1978,3 - Moderate,,,,,,,,,70s
+129,130,1978,4 - High,7.0,2.0,0.0,0.0,0.0,8.0,0.0,1.0,70s
+130,131,1978,4 - High,,,,,,,,,70s
+131,132,1978,4 - High,,,,,0.0,0.0,0.0,0.0,70s
+132,133,1978,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,70s
+133,134,1978,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,70s
+134,135,1978,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,70s
+135,136,1978,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,70s
+136,137,1978,5 - Very High,0.0,2.0,0.0,0.0,0.0,4.0,0.0,1.0,70s
+137,138,1978,4 - High,0.0,1.0,0.0,0.0,0.0,3.0,1.0,1.0,70s
+138,139,1978,4 - High,0.0,4.0,0.0,0.0,0.0,1.0,0.0,1.0,70s
+139,140,1978,4 - High,0.0,3.0,0.0,0.0,0.0,4.0,0.0,1.0,70s
+140,141,1979,5 - Very High,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,70s
+141,142,1979,5 - Very High,0.0,3.0,0.0,0.0,0.0,2.0,0.0,1.0,70s
+142,143,1979,5 - Very High,0.0,2.0,0.0,0.0,0.0,10.0,0.0,0.0,70s
+143,144,1979,4 - High,0.0,3.0,0.0,0.0,0.0,4.0,0.0,1.0,70s
+144,145,1979,5 - Very High,0.0,1.0,0.0,0.0,0.0,3.0,0.0,1.0,70s
+145,146,1979,4 - High,1.0,4.0,0.0,0.0,0.0,8.0,0.0,0.0,70s
+146,147,1979,5 - Very High,1.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,70s
+147,148,1979,4 - High,1.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,70s
+148,149,1979,5 - Very High,0.0,3.0,0.0,0.0,0.0,6.0,0.0,1.0,70s
+149,150,1979,5 - Very High,0.0,3.0,0.0,0.0,0.0,3.0,0.0,1.0,70s
+150,151,1979,4 - High,2.0,1.0,0.0,0.0,0.0,5.0,0.0,1.0,70s
+151,152,1979,5 - Very High,2.0,2.0,0.0,0.0,0.0,2.0,0.0,1.0,70s
+152,153,1979,3 - Moderate,0.0,3.0,0.0,0.0,0.0,2.0,0.0,1.0,70s
+153,154,1979,5 - Very High,0.0,5.0,0.0,0.0,0.0,8.0,0.0,1.0,70s
+154,155,1979,4 - High,3.0,2.0,0.0,0.0,0.0,2.0,0.0,1.0,70s
+155,156,1979,5 - Very High,0.0,5.0,0.0,0.0,0.0,4.0,0.0,1.0,70s
+156,157,1980,3 - Moderate,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,70s
+157,158,1980,4 - High,,,,,0.0,1.0,0.0,1.0,70s
+158,159,1980,4 - High,,,,,0.0,3.0,0.0,1.0,70s
+159,160,1980,4 - High,,,,,0.0,0.0,0.0,1.0,70s
+160,161,1980,4 - High,,,,,0.0,3.0,0.0,0.0,70s
+161,162,1980,4 - High,,,,,0.0,2.0,0.0,1.0,70s
+162,163,1980,4 - High,,,,,0.0,3.0,1.0,0.0,70s
+163,164,1980,4 - High,,,,,0.0,7.0,0.0,1.0,70s
+164,165,1980,4 - High,,,,,0.0,4.0,0.0,1.0,70s
+165,166,1980,4 - High,,,,,0.0,4.0,0.0,1.0,70s
+166,167,1980,4 - High,,,,,0.0,3.0,0.0,1.0,70s
+167,168,1980,4 - High,,,,,0.0,1.0,0.0,1.0,70s
+168,169,1980,4 - High,,,,,0.0,2.0,0.0,1.0,70s
+169,170,1980,4 - High,,,,,0.0,0.0,0.0,0.0,70s
+170,171,1980,4 - High,,,,,0.0,2.0,0.0,1.0,70s
+171,172,1980,4 - High,,,,,0.0,0.0,0.0,1.0,70s
+172,173,1980,4 - High,,,,,0.0,4.0,0.0,0.0,70s
+173,174,1980,4 - High,,,,,0.0,4.0,0.0,1.0,70s
+174,175,1980,4 - High,,,,,0.0,1.0,0.0,1.0,70s
+175,176,1980,4 - High,,,,,0.0,1.0,0.0,1.0,70s
+176,177,1980,4 - High,,,,,0.0,3.0,0.0,0.0,70s
+177,178,1980,4 - High,,,,,0.0,2.0,0.0,1.0,70s
+178,179,1980,4 - High,,,,,0.0,1.0,0.0,1.0,70s
+179,180,1980,4 - High,,,,,0.0,3.0,0.0,1.0,70s
+180,181,1980,4 - High,,,,,0.0,5.0,0.0,1.0,70s
+181,182,1981,4 - High,,,,,0.0,1.0,0.0,1.0,80s
+182,183,1981,4 - High,,,,,0.0,1.0,0.0,1.0,80s
+183,184,1981,4 - High,,,,,0.0,2.0,0.0,0.0,80s
+184,185,1981,4 - High,,,,,0.0,3.0,0.0,1.0,80s
+185,186,1981,4 - High,,,,,0.0,1.0,0.0,1.0,80s
+186,187,1981,4 - High,,,,,0.0,1.0,0.0,1.0,80s
+187,188,1981,4 - High,,,,,0.0,2.0,0.0,1.0,80s
+188,189,1981,4 - High,,,,,0.0,1.0,0.0,1.0,80s
+189,190,1981,4 - High,,,,,0.0,0.0,0.0,1.0,80s
+190,191,1981,4 - High,,,,,0.0,4.0,0.0,1.0,80s
+191,192,1981,4 - High,,,,,0.0,1.0,0.0,1.0,80s
+192,193,1981,4 - High,,,,,0.0,2.0,0.0,2.0,80s
+193,194,1981,4 - High,,,,,0.0,3.0,0.0,1.0,80s
+194,195,1981,4 - High,,,,,0.0,2.0,0.0,1.0,80s
+195,196,1981,4 - High,,,,,0.0,1.0,0.0,0.0,80s
+196,197,1981,4 - High,,,,,0.0,3.0,0.0,1.0,80s
+197,198,1981,4 - High,,,,,0.0,5.0,0.0,1.0,80s
+198,199,1981,4 - High,,,,,0.0,3.0,0.0,0.0,80s
+199,200,1981,4 - High,,,,,0.0,3.0,0.0,1.0,80s
+200,201,1981,4 - High,,,,,0.0,1.0,0.0,1.0,80s
+201,202,1981,4 - High,,,,,0.0,3.0,0.0,1.0,80s
+202,203,1981,4 - High,,,,,0.0,3.0,0.0,1.0,80s
+203,204,1981,4 - High,,,,,0.0,2.0,0.0,1.0,80s
+204,205,1981,4 - High,,,,,0.0,5.0,0.0,0.0,80s
+205,206,1981,4 - High,,,,,0.0,5.0,0.0,1.0,80s
+206,207,1981,4 - High,,,,,0.0,1.0,0.0,1.0,80s
+207,208,1981,4 - High,,,,,0.0,1.0,0.0,1.0,80s
+208,209,1981,4 - High,,,,,0.0,5.0,0.0,1.0,80s
+209,210,1981,4 - High,,,,,0.0,1.0,0.0,0.0,80s
+210,211,1981,4 - High,,,,,0.0,4.0,0.0,0.0,80s
+211,212,1981,4 - High,,,,,0.0,3.0,0.0,1.0,80s
+212,213,1981,4 - High,,,,,0.0,7.0,0.0,1.0,80s
+213,214,1981,4 - High,,,,,0.0,5.0,0.0,1.0,80s
+214,215,1981,4 - High,,,,,0.0,4.0,0.0,1.0,80s
+215,216,1981,4 - High,,,,,0.0,2.0,0.0,0.0,80s
+216,217,1981,4 - High,,,,,0.0,3.0,0.0,1.0,80s
+217,218,1982,4 - High,,,,,0.0,2.0,0.0,1.0,80s
+218,219,1982,4 - High,,,,,0.0,1.0,0.0,1.0,80s
+219,220,1982,4 - High,,,,,0.0,2.0,0.0,1.0,80s
+220,221,1982,4 - High,,,,,0.0,0.0,0.0,1.0,80s
+221,222,1982,4 - High,,,,,0.0,2.0,0.0,0.0,80s
+222,223,1982,4 - High,,,,,0.0,2.0,0.0,1.0,80s
+223,224,1982,4 - High,,,,,0.0,1.0,0.0,1.0,80s
+224,225,1982,4 - High,,,,,0.0,0.0,0.0,0.0,80s
+225,226,1982,4 - High,,,,,0.0,0.0,0.0,0.0,80s
+226,227,1982,4 - High,,,,,0.0,0.0,0.0,1.0,80s
+227,228,1982,4 - High,,,,,0.0,1.0,0.0,0.0,80s
+228,229,1982,4 - High,,,,,0.0,2.0,0.0,1.0,80s
+229,230,1982,4 - High,,,,,0.0,3.0,0.0,0.0,80s
+230,231,1982,4 - High,,,,,0.0,1.0,0.0,0.0,80s
+231,232,1982,4 - High,,,,,0.0,0.0,0.0,0.0,80s
+232,233,1982,4 - High,,,,,0.0,1.0,0.0,0.0,80s
+233,234,1982,4 - High,,,,,0.0,4.0,0.0,1.0,80s
+234,235,1982,4 - High,,,,,0.0,0.0,0.0,1.0,80s
+235,236,1982,4 - High,,,,,0.0,1.0,0.0,0.0,80s
+236,237,1982,4 - High,,,,,0.0,2.0,0.0,2.0,80s
+237,238,1982,4 - High,,,,,0.0,2.0,0.0,0.0,80s
+238,239,1982,4 - High,,,,,0.0,1.0,0.0,0.0,80s
+239,240,1982,4 - High,,,,,0.0,3.0,0.0,1.0,80s
+240,241,1982,4 - High,,,,,0.0,2.0,0.0,0.0,80s
+241,242,1982,4 - High,,,,,0.0,3.0,0.0,1.0,80s
+242,243,1982,4 - High,,,,,0.0,2.0,0.0,0.0,80s
+243,244,1983,4 - High,0.0,,,,0.0,3.0,0.0,1.0,80s
+244,245,1983,4 - High,0.0,,,,0.0,2.0,0.0,1.0,80s
+245,246,1983,5 - Very High,0.0,,,,0.0,3.0,0.0,0.0,80s
+246,247,1983,5 - Very High,0.0,,,,0.0,4.0,0.0,1.0,80s
+247,248,1983,5 - Very High,0.0,,,,0.0,2.0,2.0,0.0,80s
+248,249,1983,5 - Very High,0.0,,,,0.0,5.0,0.0,0.0,80s
+249,250,1983,5 - Very High,0.0,,,,0.0,1.0,0.0,0.0,80s
+250,251,1983,5 - Very High,0.0,,,,0.0,2.0,0.0,0.0,80s
+251,252,1983,4 - High,0.0,,,,0.0,1.0,0.0,1.0,80s
+252,253,1983,4 - High,0.0,,,,0.0,2.0,0.0,0.0,80s
+253,254,1983,5 - Very High,0.0,,,,0.0,0.0,0.0,0.0,80s
+254,255,1983,5 - Very High,0.0,,,,0.0,2.0,1.0,1.0,80s
+255,256,1983,4 - High,0.0,,,,0.0,2.0,0.0,0.0,80s
+256,257,1983,4 - High,0.0,,,,0.0,1.0,0.0,1.0,80s
+257,258,1983,4 - High,0.0,,,,0.0,0.0,1.0,1.0,80s
+258,259,1983,4 - High,0.0,,,,0.0,1.0,0.0,1.0,80s
+259,260,1983,4 - High,0.0,,,,0.0,2.0,0.0,1.0,80s
+260,261,1983,4 - High,0.0,,,,0.0,2.0,0.0,2.0,80s
+261,262,1983,4 - High,0.0,,,,0.0,2.0,0.0,1.0,80s
+262,263,1983,4 - High,0.0,,,,0.0,2.0,0.0,1.0,80s
+263,264,1983,3 - Moderate,0.0,,,,0.0,1.0,0.0,0.0,80s
+264,265,1983,3 - Moderate,0.0,,,,0.0,2.0,0.0,1.0,80s
+265,266,1983,3 - Moderate,0.0,,,,0.0,7.0,1.0,1.0,80s
+266,267,1983,3 - Moderate,0.0,,,,0.0,3.0,0.0,1.0,80s
+267,268,1984,4 - High,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,80s
+268,269,1984,4 - High,0.0,,,,0.0,3.0,0.0,1.0,80s
+269,270,1984,4 - High,0.0,,,,0.0,1.0,1.0,0.0,80s
+270,271,1984,5 - Very High,0.0,,,,0.0,2.0,0.0,1.0,80s
+271,272,1984,5 - Very High,0.0,,,,0.0,3.0,0.0,0.0,80s
+272,273,1984,4 - High,0.0,,,,0.0,4.0,0.0,0.0,80s
+273,274,1984,4 - High,0.0,,,,0.0,4.0,0.0,1.0,80s
+274,275,1984,4 - High,0.0,,,,0.0,0.0,0.0,1.0,80s
+275,276,1984,4 - High,0.0,,,,0.0,1.0,0.0,1.0,80s
+276,277,1984,4 - High,0.0,1.0,0.0,0.0,0.0,3.0,0.0,1.0,80s
+277,278,1984,4 - High,0.0,,,,0.0,1.0,0.0,1.0,80s
+278,279,1984,4 - High,0.0,,,,0.0,2.0,1.0,1.0,80s
+279,280,1984,5 - Very High,0.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,80s
+280,281,1984,5 - Very High,0.0,1.0,0.0,0.0,0.0,3.0,1.0,0.0,80s
+281,282,1984,4 - High,0.0,,,,0.0,2.0,0.0,1.0,80s
+282,283,1984,4 - High,0.0,,,,0.0,1.0,0.0,0.0,80s
+283,284,1984,5 - Very High,0.0,,,,0.0,3.0,0.0,1.0,80s
+284,285,1984,4 - High,0.0,,,,0.0,2.0,0.0,1.0,80s
+285,286,1984,4 - High,0.0,,,,0.0,1.0,0.0,1.0,80s
+286,287,1984,5 - Very High,0.0,,,,0.0,4.0,0.0,0.0,80s
+287,288,1985,5 - Very High,0.0,,,,0.0,2.0,0.0,1.0,80s
+288,289,1985,5 - Very High,0.0,,,,0.0,0.0,0.0,0.0,80s
+289,290,1985,4 - High,0.0,,,,0.0,0.0,0.0,1.0,80s
+290,291,1985,4 - High,0.0,,,,0.0,1.0,0.0,1.0,80s
+291,292,1985,5 - Very High,0.0,,,,0.0,2.0,0.0,1.0,80s
+292,293,1985,5 - Very High,0.0,,,,0.0,1.0,0.0,1.0,80s
+293,294,1985,5 - Very High,0.0,,,,0.0,2.0,0.0,1.0,80s
+294,295,1985,4 - High,0.0,,,,0.0,0.0,0.0,0.0,80s
+295,296,1985,4 - High,0.0,,,,0.0,2.0,2.0,1.0,80s
+296,297,1985,5 - Very High,0.0,,,,0.0,2.0,0.0,0.0,80s
+297,298,1985,4 - High,0.0,,,,0.0,4.0,0.0,1.0,80s
+298,299,1985,4 - High,0.0,,,,0.0,3.0,0.0,1.0,80s
+299,300,1985,4 - High,0.0,,,,0.0,3.0,0.0,1.0,80s
+300,301,1987,4 - High,,,,,0.0,2.0,1.0,0.0,80s
+301,302,1988,4 - High,0.0,3.0,1.0,0.0,0.0,5.0,1.0,1.0,80s
+302,303,1988,5 - Very High,0.0,3.0,0.0,0.0,0.0,2.0,0.0,1.0,80s
+303,304,1988,5 - Very High,0.0,3.0,0.0,0.0,0.0,1.0,0.0,1.0,80s
+304,305,1988,5 - Very High,0.0,4.0,0.0,0.0,0.0,2.0,1.0,1.0,80s
+305,306,1988,4 - High,0.0,4.0,0.0,0.0,0.0,3.0,0.0,1.0,80s
+306,307,1988,5 - Very High,0.0,3.0,0.0,0.0,0.0,4.0,2.0,1.0,80s
+307,308,1988,4 - High,,,,,0.0,26.0,0.0,0.0,80s
+308,309,1988,5 - Very High,0.0,4.0,0.0,0.0,0.0,1.0,0.0,1.0,80s
+309,310,1988,5 - Very High,0.0,10.0,0.0,0.0,0.0,2.0,0.0,1.0,80s
+310,311,1988,4 - High,0.0,6.0,0.0,0.0,0.0,1.0,0.0,1.0,80s
+311,312,1988,5 - Very High,0.0,5.0,0.0,0.0,0.0,2.0,0.0,1.0,80s
+312,313,1988,4 - High,,,,,0.0,1.0,0.0,1.0,80s
+313,314,1988,4 - High,0.0,11.0,0.0,0.0,0.0,2.0,0.0,1.0,80s
+314,315,1988,4 - High,0.0,6.0,0.0,0.0,0.0,1.0,0.0,1.0,80s
+315,316,1988,5 - Very High,0.0,7.0,0.0,0.0,0.0,1.0,0.0,1.0,80s
+316,317,1989,5 - Very High,0.0,2.0,0.0,0.0,0.0,0.0,2.0,1.0,80s
+317,318,1989,5 - Very High,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,80s
+318,319,1989,5 - Very High,0.0,6.0,0.0,0.0,0.0,0.0,0.0,1.0,80s
+319,320,1989,5 - Very High,0.0,3.0,0.0,0.0,0.0,2.0,0.0,1.0,80s
+320,321,1989,5 - Very High,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,80s
+321,322,1989,5 - Very High,0.0,8.0,0.0,0.0,0.0,0.0,0.0,1.0,80s
+322,323,1989,4 - High,0.0,5.0,0.0,0.0,0.0,1.0,4.0,1.0,80s
+323,324,1989,5 - Very High,0.0,6.0,0.0,0.0,0.0,3.0,1.0,1.0,80s
+324,325,1990,4 - High,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,80s
+325,326,1990,4 - High,0.0,6.0,0.0,0.0,0.0,0.0,1.0,1.0,80s
+326,327,1990,4 - High,0.0,4.0,0.0,0.0,0.0,2.0,1.0,1.0,80s
+327,328,1990,4 - High,0.0,6.0,0.0,0.0,0.0,1.0,0.0,1.0,80s
+328,329,1991,4 - High,0.0,6.0,0.0,0.0,0.0,0.0,0.0,1.0,90s
+329,330,1991,3 - Moderate,,,,,0.0,0.0,0.0,1.0,90s
+330,331,1991,3 - Moderate,0.0,3.0,0.0,0.0,0.0,2.0,0.0,1.0,90s
+331,332,1991,3 - Moderate,0.0,3.0,0.0,0.0,0.0,2.0,0.0,1.0,90s
+332,333,1991,4 - High,0.0,6.0,0.0,0.0,0.0,1.0,0.0,1.0,90s
+333,334,1994,2 - Low,,,,,0.0,2.0,0.0,1.0,90s
+334,335,1997,6 - Top Tier,0.0,2.0,1.0,0.0,0.0,5.0,0.0,1.0,90s
+335,336,1998,5 - Very High,1.0,9.0,0.0,0.0,2.0,14.0,1.0,0.0,90s
+336,337,1999,4 - High,0.0,5.0,1.0,0.0,1.0,6.0,0.0,1.0,90s
+337,338,1999,4 - High,0.0,0.0,1.0,0.0,0.0,2.0,1.0,1.0,90s
+338,339,2000,4 - High,0.0,2.0,0.0,0.0,14.0,6.0,0.0,2.0,90s
+339,340,2001,4 - High,1.0,7.0,1.0,0.0,1.0,9.0,0.0,3.0,00s
+340,341,2001,4 - High,0.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,00s
+341,342,2002,3 - Moderate,0.0,7.0,2.0,0.0,2.0,5.0,2.0,3.0,00s
+342,343,2002,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,00s
+343,344,2002,5 - Very High,3.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,00s
+344,345,2002,4 - High,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,00s
+345,346,2002,5 - Very High,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,00s
+346,347,2002,5 - Very High,1.0,2.0,0.0,0.0,0.0,4.0,0.0,1.0,00s
+347,348,2002,5 - Very High,1.0,1.0,1.0,0.0,0.0,3.0,0.0,1.0,00s
+348,349,2002,5 - Very High,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,00s
+349,350,2002,5 - Very High,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,00s
+350,351,2002,4 - High,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,00s
+351,352,2002,4 - High,4.0,2.0,1.0,0.0,0.0,2.0,0.0,1.0,00s
+352,353,2002,5 - Very High,2.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,00s
+353,354,2003,5 - Very High,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,00s
+354,355,2003,5 - Very High,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,00s
+355,356,2003,4 - High,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,00s
+356,357,2003,4 - High,1.0,2.0,1.0,0.0,0.0,8.0,0.0,1.0,00s
+357,358,2003,4 - High,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,00s
+358,359,2003,4 - High,1.0,2.0,0.0,0.0,0.0,3.0,0.0,1.0,00s
+359,360,2003,5 - Very High,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,00s
+360,361,2003,4 - High,1.0,2.0,0.0,0.0,0.0,2.0,0.0,1.0,00s
+361,362,2003,3 - Moderate,0.0,4.0,0.0,0.0,0.0,2.0,0.0,1.0,00s
+362,363,2003,5 - Very High,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,00s
+363,364,2003,4 - High,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,00s
+364,365,2003,5 - Very High,1.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0,00s
+365,366,2003,4 - High,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,00s
+366,367,2004,4 - High,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,00s
+367,368,2004,5 - Very High,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,00s
+368,369,2004,5 - Very High,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,00s
+369,370,2004,5 - Very High,0.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0,00s
+370,371,2004,4 - High,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,00s
+371,372,2004,4 - High,1.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,00s
+372,373,2004,2 - Low,0.0,3.0,1.0,0.0,0.0,4.0,0.0,4.0,00s
+373,374,2004,4 - High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,00s
+374,375,2004,4 - High,4.0,6.0,0.0,0.0,1.0,13.0,0.0,1.0,00s
+375,376,2005,5 - Very High,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,00s
+376,377,2005,4 - High,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,00s
+377,378,2005,3 - Moderate,3.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,00s
+378,379,2005,5 - Very High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,00s
+379,380,2005,4 - High,1.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0,00s
+380,381,2005,5 - Very High,2.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,00s
+381,382,2005,4 - High,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,00s
+382,383,2005,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,00s
+383,384,2005,5 - Very High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,00s
+384,385,2005,5 - Very High,,,,,0.0,3.0,0.0,1.0,00s
+385,386,2005,4 - High,1.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,00s
+386,387,2005,4 - High,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,00s
+387,388,2005,4 - High,1.0,0.0,0.0,0.0,0.0,2.0,0.0,3.0,00s
+388,389,2005,5 - Very High,2.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,00s
+389,390,2005,4 - High,9.0,3.0,1.0,0.0,0.0,5.0,0.0,6.0,00s
+390,391,2006,4 - High,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,00s
+391,392,2006,4 - High,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,00s
+392,393,2006,3 - Moderate,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,00s
+393,394,2006,1 - Very Low,,,,,0.0,0.0,0.0,1.0,00s
+394,395,2006,3 - Moderate,,,,,0.0,3.0,0.0,1.0,00s
+395,396,2006,3 - Moderate,,,,,0.0,1.0,0.0,1.0,00s
+396,397,2006,3 - Moderate,,,,,0.0,2.0,0.0,2.0,00s
+397,398,2006,2 - Low,,,,,0.0,1.0,0.0,1.0,00s
+398,399,2007,2 - Low,,,,,0.0,1.0,0.0,1.0,00s
+399,400,2007,4 - High,,,,,0.0,3.0,0.0,1.0,00s
+400,401,2007,2 - Low,,,,,0.0,1.0,0.0,1.0,00s
+401,402,2007,3 - Moderate,0.0,4.0,0.0,0.0,0.0,2.0,0.0,2.0,00s
+402,403,2007,3 - Moderate,,,,,0.0,0.0,0.0,1.0,00s
+403,404,2007,3 - Moderate,,,,,0.0,1.0,0.0,1.0,00s
+404,405,2007,2 - Low,,,,,0.0,1.0,0.0,1.0,00s
+405,406,2007,4 - High,4.0,4.0,0.0,0.0,0.0,10.0,0.0,5.0,00s
+406,407,2007,2 - Low,,,,,0.0,1.0,0.0,2.0,00s
+407,408,2007,2 - Low,,,,,0.0,1.0,2.0,1.0,00s
+408,409,2007,3 - Moderate,,,,,0.0,0.0,0.0,1.0,00s
+409,410,2007,2 - Low,,,,,0.0,3.0,0.0,1.0,00s
+410,411,2007,2 - Low,,,,,0.0,1.0,0.0,1.0,00s
+411,412,2007,2 - Low,,,,,0.0,0.0,0.0,3.0,00s
+412,413,2007,2 - Low,,,,,0.0,1.0,0.0,1.0,00s
+413,414,2008,2 - Low,,,,,0.0,1.0,0.0,1.0,00s
+414,415,2008,1 - Very Low,,,,,0.0,0.0,0.0,1.0,00s
+415,416,2008,1 - Very Low,,,,,0.0,1.0,0.0,1.0,00s
+416,417,2008,3 - Moderate,,,,,0.0,1.0,0.0,1.0,00s
+417,418,2008,2 - Low,,,,,0.0,16.0,0.0,1.0,00s
+418,419,2008,2 - Low,,,,,0.0,2.0,0.0,1.0,00s
+419,420,2008,3 - Moderate,4.0,2.0,0.0,0.0,1.0,14.0,0.0,7.0,00s
+420,421,2009,3 - Moderate,2.0,3.0,1.0,0.0,0.0,12.0,0.0,3.0,00s
+421,422,2009,2 - Low,0.0,7.0,1.0,0.0,1.0,3.0,2.0,1.0,00s
+422,423,2010,4 - High,0.0,2.0,0.0,0.0,0.0,3.0,0.0,2.0,00s
+423,424,2010,5 - Very High,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,00s
+424,425,2010,5 - Very High,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,00s
+425,426,2010,5 - Very High,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,00s
+426,427,2010,5 - Very High,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,00s
+427,428,2010,5 - Very High,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,00s
+428,429,2010,6 - Top Tier,0.0,2.0,0.0,0.0,0.0,2.0,0.0,1.0,00s
+429,430,2010,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,00s
+430,431,2010,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,00s
+431,432,2010,5 - Very High,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,00s
+432,433,2010,4 - High,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,00s
+433,434,2010,5 - Very High,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,00s
+434,435,2010,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,00s
+435,436,2010,6 - Top Tier,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,00s
+436,437,2010,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,00s
+437,438,2011,1 - Very Low,0.0,3.0,1.0,0.0,1.0,4.0,0.0,1.0,10s
+438,439,2011,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+439,440,2011,5 - Very High,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,10s
+440,441,2011,5 - Very High,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+441,442,2011,6 - Top Tier,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+442,443,2011,5 - Very High,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+443,444,2011,6 - Top Tier,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+444,445,2011,5 - Very High,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,10s
+445,446,2011,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+446,447,2011,5 - Very High,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+447,448,2011,6 - Top Tier,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,10s
+448,449,2011,5 - Very High,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,10s
+449,450,2011,6 - Top Tier,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,10s
+450,451,2011,7 - Elite,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,10s
+451,452,2011,4 - High,0.0,0.0,0.0,0.0,0.0,3.0,0.0,2.0,10s
+452,453,2012,3 - Moderate,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+453,454,2012,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+454,455,2012,6 - Top Tier,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+455,456,2012,5 - Very High,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+456,457,2012,6 - Top Tier,0.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0,10s
+457,458,2012,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+458,459,2012,6 - Top Tier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+459,460,2012,5 - Very High,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+460,461,2012,5 - Very High,0.0,3.0,0.0,1.0,0.0,1.0,0.0,0.0,10s
+461,462,2012,6 - Top Tier,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,10s
+462,463,2012,6 - Top Tier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+463,464,2012,7 - Elite,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+464,465,2012,6 - Top Tier,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+465,466,2012,5 - Very High,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+466,467,2012,6 - Top Tier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+467,468,2012,5 - Very High,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,10s
+468,469,2012,6 - Top Tier,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,10s
+469,470,2012,4 - High,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,10s
+470,471,2012,4 - High,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,10s
+471,472,2013,4 - High,1.0,1.0,0.0,0.0,1.0,4.0,0.0,1.0,10s
+472,473,2013,5 - Very High,1.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+473,474,2013,6 - Top Tier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+474,475,2013,5 - Very High,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,10s
+475,476,2013,5 - Very High,0.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,10s
+476,477,2013,6 - Top Tier,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+477,478,2013,6 - Top Tier,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+478,479,2013,6 - Top Tier,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+479,480,2013,6 - Top Tier,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+480,481,2013,6 - Top Tier,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,10s
+481,482,2013,6 - Top Tier,2.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,10s
+482,483,2013,7 - Elite,1.0,2.0,0.0,0.0,0.0,2.0,1.0,1.0,10s
+483,484,2013,2 - Low,0.0,8.0,0.0,0.0,1.0,2.0,0.0,4.0,10s
+484,485,2013,4 - High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,10s
+485,486,2013,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+486,487,2013,3 - Moderate,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,10s
+487,488,2014,3 - Moderate,0.0,3.0,0.0,0.0,0.0,3.0,1.0,3.0,10s
+488,489,2014,3 - Moderate,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,10s
+489,490,2014,4 - High,10.0,2.0,0.0,0.0,0.0,4.0,0.0,1.0,10s
+490,491,2015,3 - Moderate,2.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,10s
+491,492,2015,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+492,493,2015,3 - Moderate,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+493,494,2015,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+494,495,2015,4 - High,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,10s
+495,496,2015,4 - High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+496,497,2015,4 - High,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+497,498,2015,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+498,499,2015,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+499,500,2015,5 - Very High,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+500,501,2015,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+501,502,2015,4 - High,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,10s
+502,503,2015,5 - Very High,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+503,504,2015,5 - Very High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,10s
+504,505,2015,4 - High,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,10s
+505,506,2015,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+506,507,2015,3 - Moderate,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+507,508,2015,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+508,509,2015,5 - Very High,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+509,510,2016,5 - Very High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,10s
+510,511,2016,5 - Very High,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,10s
+511,512,2016,5 - Very High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+512,513,2016,5 - Very High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+513,514,2016,3 - Moderate,2.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,10s
+514,515,2016,4 - High,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+515,516,2016,4 - High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+516,517,2016,3 - Moderate,0.0,2.0,0.0,0.0,0.0,3.0,0.0,1.0,10s
+517,518,2017,4 - High,0.0,1.0,0.0,0.0,0.0,2.0,0.0,3.0,10s
+518,519,2017,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+519,520,2017,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+520,521,2017,4 - High,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,10s
+521,522,2017,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+522,523,2017,5 - Very High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+523,524,2017,2 - Low,1.0,13.0,1.0,0.0,0.0,2.0,1.0,1.0,10s
+524,525,2017,5 - Very High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,10s
+525,526,2017,5 - Very High,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+526,527,2017,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+527,528,2017,5 - Very High,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+528,529,2017,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+529,530,2017,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+530,531,2017,4 - High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+531,532,2017,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+532,533,2017,3 - Moderate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+533,534,2017,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+534,535,2017,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+535,536,2017,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+536,537,2017,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+537,538,2017,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+538,539,2017,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+539,540,2018,3 - Moderate,4.0,8.0,0.0,0.0,0.0,5.0,0.0,1.0,10s
+540,541,2018,4 - High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+541,542,2018,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+542,543,2018,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+543,544,2018,4 - High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+544,545,2018,4 - High,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,10s
+545,546,2018,4 - High,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+546,547,2018,4 - High,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+547,548,2018,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+548,549,2018,5 - Very High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+549,550,2018,5 - Very High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+550,551,2018,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+551,552,2018,4 - High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+552,553,2018,7 - Elite,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+553,554,2018,1 - Very Low,0.0,3.0,0.0,0.0,,,,,10s
+554,555,2018,4 - High,2.0,0.0,1.0,0.0,0.0,2.0,1.0,1.0,10s
+555,556,2018,5 - Very High,,,,,,,,,10s
+556,557,2019,3 - Moderate,0.0,2.0,1.0,0.0,0.0,3.0,0.0,1.0,10s
+557,558,2019,4 - High,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+558,559,2019,5 - Very High,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,10s
+559,560,2019,5 - Very High,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,10s
+560,561,2019,5 - Very High,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+561,562,2019,2 - Low,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+562,563,2019,4 - High,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,10s
+563,564,2019,5 - Very High,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,10s
+564,565,2019,6 - Top Tier,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,10s
+565,566,2019,3 - Moderate,1.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,10s
+566,567,2019,5 - Very High,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,10s
+567,568,2019,5 - Very High,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,10s
+568,569,2019,4 - High,3.0,2.0,1.0,0.0,0.0,2.0,0.0,1.0,10s
+569,570,2019,4 - High,0.0,2.0,1.0,0.0,0.0,2.0,0.0,1.0,10s
+570,571,2019,6 - Top Tier,2.0,0.0,1.0,0.0,0.0,4.0,0.0,1.0,10s
+571,572,2019,3 - Moderate,4.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,10s
+572,573,2020,3 - Moderate,2.0,1.0,0.0,0.0,0.0,4.0,0.0,1.0,10s
+573,574,2020,5 - Very High,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,10s
+574,575,2020,6 - Top Tier,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,10s
+575,576,2020,5 - Very High,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,10s
+576,577,2020,5 - Very High,3.0,6.0,0.0,0.0,0.0,4.0,0.0,1.0,10s
+577,578,2020,5 - Very High,2.0,2.0,0.0,0.0,0.0,2.0,0.0,1.0,10s
+578,579,2020,5 - Very High,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+579,580,2020,5 - Very High,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+580,581,2020,5 - Very High,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+581,582,2020,6 - Top Tier,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,10s
+582,583,2020,5 - Very High,2.0,2.0,0.0,1.0,0.0,3.0,0.0,0.0,10s
+583,584,2020,6 - Top Tier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+584,585,2020,5 - Very High,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,10s
+585,586,2020,5 - Very High,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,10s
+586,587,2020,,1.0,3.0,0.0,1.0,0.0,1.0,0.0,1.0,10s
+587,588,2020,,3.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,10s
+588,589,2020,,1.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,10s
+589,590,2020,,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,10s
+590,591,2020,,2.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,10s
+591,592,2020,,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+592,593,2020,,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,10s
+593,594,2020,,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,10s
+594,595,2020,,2.0,4.0,1.0,0.0,0.0,1.0,0.0,1.0,10s
+595,596,2020,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10s
+596,597,2020,,2.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+597,598,2020,,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,10s
+598,599,2020,,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,10s
+599,600,2020,3 - Moderate,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10s
+600,601,2020,3 - Moderate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10s
+601,602,2021,,3.0,3.0,1.0,0.0,0.0,2.0,0.0,1.0,20s
+602,603,2020,,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,10s

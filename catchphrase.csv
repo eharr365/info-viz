@@ -1,226 +1,57 @@
-,year,catchphrase,count
-0,1969,jeepers,1
-1,1970,jeepers,0
-2,1972,jeepers,2
-3,1973,jeepers,1
-4,1976,jeepers,13
-5,1977,jeepers,21
-6,1978,jeepers,39
-7,1979,jeepers,10
-8,1980,jeepers,0
-9,1981,jeepers,0
-10,1982,jeepers,0
-11,1983,jeepers,0
-12,1984,jeepers,0
-13,1985,jeepers,0
-14,1987,jeepers,0
-15,1988,jeepers,0
-16,1989,jeepers,0
-17,1990,jeepers,0
-18,1991,jeepers,0
-19,1994,jeepers,0
-20,1997,jeepers,0
-21,1998,jeepers,1
-22,1999,jeepers,0
-23,2000,jeepers,0
-24,2001,jeepers,1
-25,2002,jeepers,14
-26,2003,jeepers,8
-27,2004,jeepers,6
-28,2005,jeepers,26
-29,2006,jeepers,1
-30,2007,jeepers,4
-31,2008,jeepers,4
-32,2009,jeepers,2
-33,2010,jeepers,0
-34,2011,jeepers,1
-35,2012,jeepers,4
-36,2013,jeepers,8
-37,2014,jeepers,10
-38,2015,jeepers,5
-39,2016,jeepers,3
-40,2017,jeepers,1
-41,2018,jeepers,8
-42,2019,jeepers,14
-43,2020,jeepers,36
-44,2021,jeepers,3
-45,1969,jinkies,0
-46,1970,jinkies,0
-47,1972,jinkies,8
-48,1973,jinkies,7
-49,1976,jinkies,14
-50,1977,jinkies,5
-51,1978,jinkies,18
-52,1979,jinkies,39
-53,1980,jinkies,0
-54,1981,jinkies,0
-55,1982,jinkies,0
-56,1983,jinkies,0
-57,1984,jinkies,4
-58,1985,jinkies,0
-59,1987,jinkies,0
-60,1988,jinkies,69
-61,1989,jinkies,34
-62,1990,jinkies,18
-63,1991,jinkies,18
-64,1994,jinkies,0
-65,1997,jinkies,2
-66,1998,jinkies,9
-67,1999,jinkies,5
-68,2000,jinkies,2
-69,2001,jinkies,8
-70,2002,jinkies,18
-71,2003,jinkies,15
-72,2004,jinkies,12
-73,2005,jinkies,9
-74,2006,jinkies,3
-75,2007,jinkies,8
-76,2008,jinkies,2
-77,2009,jinkies,10
-78,2010,jinkies,14
-79,2011,jinkies,10
-80,2012,jinkies,19
-81,2013,jinkies,25
-82,2014,jinkies,6
-83,2015,jinkies,8
-84,2016,jinkies,3
-85,2017,jinkies,16
-86,2018,jinkies,15
-87,2019,jinkies,11
-88,2020,jinkies,36
-89,2021,jinkies,3
-90,1969,zoinks,32
-91,1970,zoinks,37
-92,1972,zoinks,23
-93,1973,zoinks,0
-94,1976,zoinks,116
-95,1977,zoinks,78
-96,1978,zoinks,80
-97,1979,zoinks,67
-98,1980,zoinks,62
-99,1981,zoinks,94
-100,1982,zoinks,38
-101,1983,zoinks,52
-102,1984,zoinks,44
-103,1985,zoinks,22
-104,1987,zoinks,2
-105,1988,zoinks,54
-106,1989,zoinks,6
-107,1990,zoinks,3
-108,1991,zoinks,5
-109,1994,zoinks,2
-110,1997,zoinks,5
-111,1998,zoinks,14
-112,1999,zoinks,8
-113,2000,zoinks,6
-114,2001,zoinks,11
-115,2002,zoinks,23
-116,2003,zoinks,25
-117,2004,zoinks,27
-118,2005,zoinks,24
-119,2006,zoinks,10
-120,2007,zoinks,26
-121,2008,zoinks,35
-122,2009,zoinks,15
-123,2010,zoinks,15
-124,2011,zoinks,21
-125,2012,zoinks,9
-126,2013,zoinks,19
-127,2014,zoinks,8
-128,2015,zoinks,10
-129,2016,zoinks,11
-130,2017,zoinks,11
-131,2018,zoinks,13
-132,2019,zoinks,26
-133,2020,zoinks,38
-134,2021,zoinks,2
-135,1969,scooby_doo_where_are_you,6
-136,1970,scooby_doo_where_are_you,2
-137,1972,scooby_doo_where_are_you,10
-138,1973,scooby_doo_where_are_you,0
-139,1976,scooby_doo_where_are_you,1
-140,1977,scooby_doo_where_are_you,4
-141,1978,scooby_doo_where_are_you,7
-142,1979,scooby_doo_where_are_you,0
-143,1980,scooby_doo_where_are_you,1
-144,1981,scooby_doo_where_are_you,0
-145,1982,scooby_doo_where_are_you,0
-146,1983,scooby_doo_where_are_you,5
-147,1984,scooby_doo_where_are_you,3
-148,1985,scooby_doo_where_are_you,2
-149,1987,scooby_doo_where_are_you,1
-150,1988,scooby_doo_where_are_you,4
-151,1989,scooby_doo_where_are_you,8
-152,1990,scooby_doo_where_are_you,3
-153,1991,scooby_doo_where_are_you,0
-154,1994,scooby_doo_where_are_you,0
-155,1997,scooby_doo_where_are_you,0
-156,1998,scooby_doo_where_are_you,1
-157,1999,scooby_doo_where_are_you,1
-158,2000,scooby_doo_where_are_you,0
-159,2001,scooby_doo_where_are_you,0
-160,2002,scooby_doo_where_are_you,3
-161,2003,scooby_doo_where_are_you,2
-162,2004,scooby_doo_where_are_you,0
-163,2005,scooby_doo_where_are_you,1
-164,2006,scooby_doo_where_are_you,0
-165,2007,scooby_doo_where_are_you,2
-166,2008,scooby_doo_where_are_you,0
-167,2009,scooby_doo_where_are_you,2
-168,2010,scooby_doo_where_are_you,0
-169,2011,scooby_doo_where_are_you,0
-170,2012,scooby_doo_where_are_you,1
-171,2013,scooby_doo_where_are_you,1
-172,2014,scooby_doo_where_are_you,1
-173,2015,scooby_doo_where_are_you,1
-174,2016,scooby_doo_where_are_you,1
-175,2017,scooby_doo_where_are_you,1
-176,2018,scooby_doo_where_are_you,1
-177,2019,scooby_doo_where_are_you,0
-178,2020,scooby_doo_where_are_you,0
-179,2021,scooby_doo_where_are_you,0
-180,1969,rooby_rooby_roo,9
-181,1970,rooby_rooby_roo,0
-182,1972,rooby_rooby_roo,9
-183,1973,rooby_rooby_roo,3
-184,1976,rooby_rooby_roo,16
-185,1977,rooby_rooby_roo,18
-186,1978,rooby_rooby_roo,16
-187,1979,rooby_rooby_roo,13
-188,1980,rooby_rooby_roo,19
-189,1981,rooby_rooby_roo,30
-190,1982,rooby_rooby_roo,14
-191,1983,rooby_rooby_roo,16
-192,1984,rooby_rooby_roo,13
-193,1985,rooby_rooby_roo,10
-194,1987,rooby_rooby_roo,0
-195,1988,rooby_rooby_roo,14
-196,1989,rooby_rooby_roo,8
-197,1990,rooby_rooby_roo,3
-198,1991,rooby_rooby_roo,5
-199,1994,rooby_rooby_roo,1
-200,1997,rooby_rooby_roo,1
-201,1998,rooby_rooby_roo,0
-202,1999,rooby_rooby_roo,2
-203,2000,rooby_rooby_roo,2
-204,2001,rooby_rooby_roo,4
-205,2002,rooby_rooby_roo,13
-206,2003,rooby_rooby_roo,11
-207,2004,rooby_rooby_roo,9
-208,2005,rooby_rooby_roo,19
-209,2006,rooby_rooby_roo,9
-210,2007,rooby_rooby_roo,23
-211,2008,rooby_rooby_roo,13
-212,2009,rooby_rooby_roo,4
-213,2010,rooby_rooby_roo,9
-214,2011,rooby_rooby_roo,5
-215,2012,rooby_rooby_roo,6
-216,2013,rooby_rooby_roo,12
-217,2014,rooby_rooby_roo,5
-218,2015,rooby_rooby_roo,7
-219,2016,rooby_rooby_roo,3
-220,2017,rooby_rooby_roo,7
-221,2018,rooby_rooby_roo,2
-222,2019,rooby_rooby_roo,11
-223,2020,rooby_rooby_roo,18
-224,2021,rooby_rooby_roo,1
+,rank,catchphrase,count
+0,1 - Very Low,jeepers,0
+1,2 - Low,jeepers,2
+2,3 - Moderate,jeepers,28
+3,4 - High,jeepers,100
+4,5 - Very High,jeepers,83
+5,6 - Top Tier,jeepers,11
+6,7 - Elite,jeepers,3
+7,1 - Very Low,jinkies,6
+8,2 - Low,jinkies,31
+9,3 - Moderate,jinkies,56
+10,4 - High,jinkies,164
+11,5 - Very High,jinkies,196
+12,6 - Top Tier,jinkies,21
+13,7 - Elite,jinkies,8
+14,1 - Very Low,my_glasses,1
+15,2 - Low,my_glasses,3
+16,3 - Moderate,my_glasses,8
+17,4 - High,my_glasses,15
+18,5 - Very High,my_glasses,7
+19,6 - Top Tier,my_glasses,7
+20,7 - Elite,my_glasses,0
+21,1 - Very Low,just_about_wrapped_up,0
+22,2 - Low,just_about_wrapped_up,0
+23,3 - Moderate,just_about_wrapped_up,0
+24,4 - High,just_about_wrapped_up,8
+25,5 - Very High,just_about_wrapped_up,7
+26,6 - Top Tier,just_about_wrapped_up,1
+27,7 - Elite,just_about_wrapped_up,0
+28,1 - Very Low,groovy,1
+29,2 - Low,groovy,2
+30,3 - Moderate,groovy,4
+31,4 - High,groovy,19
+32,5 - Very High,groovy,8
+33,6 - Top Tier,groovy,0
+34,7 - Elite,groovy,0
+35,1 - Very Low,zoinks,5
+36,2 - Low,zoinks,43
+37,3 - Moderate,zoinks,101
+38,4 - High,zoinks,590
+39,5 - Very High,zoinks,416
+40,6 - Top Tier,zoinks,54
+41,7 - Elite,zoinks,4
+42,1 - Very Low,scooby_doo_where_are_you,0
+43,2 - Low,scooby_doo_where_are_you,5
+44,3 - Moderate,scooby_doo_where_are_you,7
+45,4 - High,scooby_doo_where_are_you,28
+46,5 - Very High,scooby_doo_where_are_you,34
+47,6 - Top Tier,scooby_doo_where_are_you,1
+48,7 - Elite,scooby_doo_where_are_you,1
+49,1 - Very Low,rooby_rooby_roo,4
+50,2 - Low,rooby_rooby_roo,28
+51,3 - Moderate,rooby_rooby_roo,51
+52,4 - High,rooby_rooby_roo,203
+53,5 - Very High,rooby_rooby_roo,103
+54,6 - Top Tier,rooby_rooby_roo,12
+55,7 - Elite,rooby_rooby_roo,2
